@@ -1,0 +1,8 @@
+node_modules
+out/
+stills/
+qa/
+cues*.json
+public/audio.wav
+.DS_Store
+__pycache__/

@@ -1,0 +1,31 @@
+{
+  "name": "hold-my-tokens",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "cues": "npx tsx scripts/cues-back.ts && node scripts/cues-a.mjs && node scripts/cues-film.mjs && npx tsx scripts/cues-warp.ts",
+    "preview": "./preview.sh",
+    "render": "./render.sh",
+    "stills": "node scripts/stills.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
+    "@react-three/postprocessing": "^3.1.3",
+    "@remotion/bundler": "^4.0.534",
+    "@remotion/cli": "^4.0.534",
+    "@remotion/renderer": "^4.0.534",
+    "@remotion/three": "^4.0.534",
+    "katex": "^0.19.0",
+    "postprocessing": "^6.39.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.534",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.186.0",
+    "typescript": "^7.0.2"
+  }
+}

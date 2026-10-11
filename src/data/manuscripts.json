@@ -1,0 +1,4310 @@
+[
+{
+"family": "001",
+"title": "Milne's rationality conjecture for abelian varieties",
+"titlePlain": "Milne's rationality conjecture for abelian varieties",
+"date": "2026-10-07"
+},
+{
+"family": "002",
+"title": "Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank",
+"titlePlain": "Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank",
+"date": "2026-10-07"
+},
+{
+"family": "002",
+"title": "The Selmer converse for elliptic curves at every prime",
+"titlePlain": "The Selmer converse for elliptic curves at every prime",
+"date": "2026-10-07"
+},
+{
+"family": "002",
+"title": "The two-primary Birch–Swinnerton-Dyer formula in Selmer corank at most one",
+"titlePlain": "The two-primary Birch–Swinnerton-Dyer formula in Selmer corank at most one",
+"date": "2026-10-06"
+},
+{
+"family": "003",
+"title": "The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane $\\Re s> 7/8$",
+"titlePlain": "The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane Re s> 7/8",
+"date": "2026-09-30"
+},
+{
+"family": "003",
+"title": "The Quasi-Riemann Hypothesis (alternate 11/12 proof)",
+"titlePlain": "The Quasi-Riemann Hypothesis (alternate 11/12 proof)",
+"date": "2026-10-05"
+},
+{
+"family": "003",
+"title": "Uniform exclusion of Landau–Siegel zeros",
+"titlePlain": "Uniform exclusion of Landau–Siegel zeros",
+"date": "2026-10-01"
+},
+{
+"family": "004",
+"title": "Hilbert’s tenth problem over the rational numbers",
+"titlePlain": "Hilbert’s tenth problem over the rational numbers",
+"date": "2026-10-06"
+},
+{
+"family": "004",
+"title": "A pointwise 2-converse for elliptic curves with rational two-torsion",
+"titlePlain": "A pointwise 2-converse for elliptic curves with rational two-torsion",
+"date": "2026-10-07"
+},
+{
+"family": "005",
+"title": "Catalan's constant is irrational",
+"titlePlain": "Catalan's constant is irrational",
+"date": "2026-09-24"
+},
+{
+"family": "006",
+"title": "Goldfeld's analytic density conjecture and the 2-converse for elliptic curves",
+"titlePlain": "Goldfeld's analytic density conjecture and the 2-converse for elliptic curves",
+"date": "2026-10-07"
+},
+{
+"family": "006",
+"title": "The mean analytic rank of quadratic twists of elliptic curves",
+"titlePlain": "The mean analytic rank of quadratic twists of elliptic curves",
+"date": "2026-10-06"
+},
+{
+"family": "007",
+"title": "Ordinary two-point correlations of multiplicative functions",
+"titlePlain": "Ordinary two-point correlations of multiplicative functions",
+"date": "2026-09-24"
+},
+{
+"family": "008",
+"title": "The Deligne-Drinfeld conjecture",
+"titlePlain": "The Deligne-Drinfeld conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "009",
+"title": "Reconstruction of Function Fields from Mod-ℓ Milnor K-Theory",
+"titlePlain": "Reconstruction of Function Fields from Mod-ℓ Milnor K-Theory",
+"date": "2026-10-05"
+},
+{
+"family": "009",
+"title": "Reconstruction from Milnor K-theory modulo the characteristic",
+"titlePlain": "Reconstruction from Milnor K-theory modulo the characteristic",
+"date": "2026-10-05"
+},
+{
+"family": "009",
+"title": "The Bogomolov-Pop reconstruction theorem",
+"titlePlain": "The Bogomolov-Pop reconstruction theorem",
+"date": "2026-09-23"
+},
+{
+"family": "010",
+"title": "Unrestricted pro-modularity at the prime two",
+"titlePlain": "Unrestricted pro-modularity at the prime two",
+"date": "2026-10-06"
+},
+{
+"family": "010",
+"title": "The Dimension of the Two-Adic Hecke Algebra at Odd Level",
+"titlePlain": "The Dimension of the Two-Adic Hecke Algebra at Odd Level",
+"date": "2026-10-05"
+},
+{
+"family": "010",
+"title": "Fontaine–Mazur modularity at the prime 2",
+"titlePlain": "Fontaine–Mazur modularity at the prime 2",
+"date": "2026-10-06"
+},
+{
+"family": "011",
+"title": "Weighted dilation graphs, smooth shifted primes and totient fibers",
+"titlePlain": "Weighted dilation graphs, smooth shifted primes and totient fibers",
+"date": "2026-09-24"
+},
+{
+"family": "011",
+"title": "The Poisson-Dirichlet law for prime predecessors",
+"titlePlain": "The Poisson-Dirichlet law for prime predecessors",
+"date": "2026-09-24"
+},
+{
+"family": "011",
+"title": "Prime Predecessors with an Even Number of Prime Factors",
+"titlePlain": "Prime Predecessors with an Even Number of Prime Factors",
+"date": "2026-09-17"
+},
+{
+"family": "012",
+"title": "The joint Dickman law for consecutive integers",
+"titlePlain": "The joint Dickman law for consecutive integers",
+"date": "2026-09-24"
+},
+{
+"family": "013",
+"title": "The additive indecomposability of the primes",
+"titlePlain": "The additive indecomposability of the primes",
+"date": "2026-09-24"
+},
+{
+"family": "014",
+"title": "Global Arthur Enhancements of Cuspidal Excursion Parameters",
+"titlePlain": "Global Arthur Enhancements of Cuspidal Excursion Parameters",
+"date": "2026-10-05"
+},
+{
+"family": "014",
+"title": "Rationality of the Canonical Unramified Arthur Filtration",
+"titlePlain": "Rationality of the Canonical Unramified Arthur Filtration",
+"date": "2026-09-24"
+},
+{
+"family": "014",
+"title": "Ramanujan-Arthur Decompositions of Cuspidal Functions at Full Finite Level",
+"titlePlain": "Ramanujan-Arthur Decompositions of Cuspidal Functions at Full Finite Level",
+"date": "2026-09-24"
+},
+{
+"family": "014",
+"title": "Temperedness at ramified places for globally generic exceptional groups",
+"titlePlain": "Temperedness at ramified places for globally generic exceptional groups",
+"date": "2026-10-05"
+},
+{
+"family": "014",
+"title": "The Restricted Geometric Langlands Equivalence in Positive Characteristic",
+"titlePlain": "The Restricted Geometric Langlands Equivalence in Positive Characteristic",
+"date": "2026-09-24"
+},
+{
+"family": "014",
+"title": "Constructible tame Hecke eigensheaves in positive characteristic",
+"titlePlain": "Constructible tame Hecke eigensheaves in positive characteristic",
+"date": "2026-10-05"
+},
+{
+"family": "014",
+"title": "Tame Hecke Eigensheaves with Several Marked Points",
+"titlePlain": "Tame Hecke Eigensheaves with Several Marked Points",
+"date": "2026-10-05"
+},
+{
+"family": "014",
+"title": "Frobenius Structures on Tame Hecke Eigensheaves",
+"titlePlain": "Frobenius Structures on Tame Hecke Eigensheaves",
+"date": "2026-10-05"
+},
+{
+"family": "015",
+"title": "Equidistribution of Prime-Degree Torus Packets with Arbitrary Local Type",
+"titlePlain": "Equidistribution of Prime-Degree Torus Packets with Arbitrary Local Type",
+"date": "2026-09-24"
+},
+{
+"family": "015",
+"title": "Equidistribution of primitive quartic torus packets for arbitrary orders",
+"titlePlain": "Equidistribution of primitive quartic torus packets for arbitrary orders",
+"date": "2026-10-05"
+},
+{
+"family": "015",
+"title": "Equidistribution of Primitive Sextic Torus Packets",
+"titlePlain": "Equidistribution of Primitive Sextic Torus Packets",
+"date": "2026-10-05"
+},
+{
+"family": "016",
+"title": "The abelian Zilber–Pink conjecture",
+"titlePlain": "The abelian Zilber–Pink conjecture",
+"date": "2026-09-24"
+},
+{
+"family": "016",
+"title": "The E×CM component of Zilber–Pink for curves in A2",
+"titlePlain": "The E×CM component of Zilber–Pink for curves in A2",
+"date": "2026-09-24"
+},
+{
+"family": "016",
+"title": "Quaternionic division points on curves in the Siegel threefold",
+"titlePlain": "Quaternionic division points on curves in the Siegel threefold",
+"date": "2026-09-24"
+},
+{
+"family": "016",
+"title": "Elliptic squares and Zilber–Pink for curves in A2",
+"titlePlain": "Elliptic squares and Zilber–Pink for curves in A2",
+"date": "2026-09-24"
+},
+{
+"family": "017",
+"title": "The irrationality exponent of pi is 2",
+"titlePlain": "The irrationality exponent of pi is 2",
+"date": "2026-09-24"
+},
+{
+"family": "018",
+"title": "The Margulis–Platonov conjecture over global function fields",
+"titlePlain": "The Margulis–Platonov conjecture over global function fields",
+"date": "2026-10-05"
+},
+{
+"family": "018",
+"title": "The Margulis–Platonov conjecture over number fields",
+"titlePlain": "The Margulis–Platonov conjecture over number fields",
+"date": "2026-09-23"
+},
+{
+"family": "019",
+"title": "Étale covers with a prescribed exterior sheet",
+"titlePlain": "Étale covers with a prescribed exterior sheet",
+"date": "2026-09-24"
+},
+{
+"family": "019",
+"title": "The p-adic section conjecture",
+"titlePlain": "The p-adic section conjecture",
+"date": "2026-10-06"
+},
+{
+"family": "020",
+"title": "Squarefree values of quartics and power-free values of polynomials",
+"titlePlain": "Squarefree values of quartics and power-free values of polynomials",
+"date": "2026-09-24"
+},
+{
+"family": "021",
+"title": "A quadratic bound for Jacobsthal's function",
+"titlePlain": "A quadratic bound for Jacobsthal's function",
+"date": "2026-09-25"
+},
+{
+"family": "022",
+"title": "The Weak Inhomogeneous Duffin–Schaeffer Conjecture",
+"titlePlain": "The Weak Inhomogeneous Duffin–Schaeffer Conjecture",
+"date": "2026-09-25"
+},
+{
+"family": "023",
+"title": "An unconditional first moment for cubic Gauss sums",
+"titlePlain": "An unconditional first moment for cubic Gauss sums",
+"date": "2026-09-25"
+},
+{
+"family": "024",
+"title": "An asymptotic formula for the number of totients",
+"titlePlain": "An asymptotic formula for the number of totients",
+"date": "2026-09-25"
+},
+{
+"family": "025",
+"title": "Short Egyptian fractions",
+"titlePlain": "Short Egyptian fractions",
+"date": "2026-09-25"
+},
+{
+"family": "026",
+"title": "Positive lower density of large prime gaps",
+"titlePlain": "Positive lower density of large prime gaps",
+"date": "2026-09-25"
+},
+{
+"family": "027",
+"title": "Integral points on character varieties of curves",
+"titlePlain": "Integral points on character varieties of curves",
+"date": "2026-09-25"
+},
+{
+"family": "028",
+"title": "Bounded-Step Walks on Gaussian Primes",
+"titlePlain": "Bounded-Step Walks on Gaussian Primes",
+"date": "2026-09-26"
+},
+{
+"family": "029",
+"title": "Primitive roots for every admissible integer base",
+"titlePlain": "Primitive roots for every admissible integer base",
+"date": "2026-10-04"
+},
+{
+"family": "029",
+"title": "Simultaneous primitive roots: a conditional lower bound for prime bases",
+"titlePlain": "Simultaneous primitive roots: a conditional lower bound for prime bases",
+"date": "2026-10-04"
+},
+{
+"family": "030",
+"title": "Modularity of elliptic curves over imaginary quadratic fields",
+"titlePlain": "Modularity of elliptic curves over imaginary quadratic fields",
+"date": "2026-10-04"
+},
+{
+"family": "031",
+"title": "Open Homomorphisms of Global Solvably Closed Galois Groups",
+"titlePlain": "Open Homomorphisms of Global Solvably Closed Galois Groups",
+"date": "2026-10-05"
+},
+{
+"family": "032",
+"title": "The rational Hodge conjecture for CM abelian varieties",
+"titlePlain": "The rational Hodge conjecture for CM abelian varieties",
+"date": "2026-10-06"
+},
+{
+"family": "032",
+"title": "Algebraic Kuga–Satake correspondences and Hodge conjectures on a K3 quadratic locus",
+"titlePlain": "Algebraic Kuga–Satake correspondences and Hodge conjectures on a K3 quadratic locus",
+"date": "2026-09-30"
+},
+{
+"family": "032",
+"title": "Weil classes and Hodge classes on abelian powers",
+"titlePlain": "Weil classes and Hodge classes on abelian powers",
+"date": "2026-10-06"
+},
+{
+"family": "032",
+"title": "Abelian covers, Gale correspondences, and the Hodge conjecture for powers",
+"titlePlain": "Abelian covers, Gale correspondences, and the Hodge conjecture for powers",
+"date": "2026-10-06"
+},
+{
+"family": "032",
+"title": "A Conditional Reduction for Algebraic Kuga–Satake Correspondences",
+"titlePlain": "A Conditional Reduction for Algebraic Kuga–Satake Correspondences",
+"date": "2026-09-10"
+},
+{
+"family": "033",
+"title": "Orbifold and logarithmic Iitaka subadditivity",
+"titlePlain": "Orbifold and logarithmic Iitaka subadditivity",
+"date": "2026-09-26"
+},
+{
+"family": "033",
+"title": "Logarithmic Kodaira dimension and whole-fiber variation",
+"titlePlain": "Logarithmic Kodaira dimension and whole-fiber variation",
+"date": "2026-09-26"
+},
+{
+"family": "033",
+"title": "The reverse logarithmic Kodaira inequality and additivity",
+"titlePlain": "The reverse logarithmic Kodaira inequality and additivity",
+"date": "2026-09-26"
+},
+{
+"family": "033",
+"title": "Projective Hodge lines and ordinary Iitaka subadditivity",
+"titlePlain": "Projective Hodge lines and ordinary Iitaka subadditivity",
+"date": "2026-09-27"
+},
+{
+"family": "033",
+"title": "B-semiampleness for compact log-smooth Kähler fibrations",
+"titlePlain": "B-semiampleness for compact log-smooth Kähler fibrations",
+"date": "2026-09-10"
+},
+{
+"family": "034",
+"title": "Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity",
+"titlePlain": "Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity",
+"date": "2026-10-06"
+},
+{
+"family": "034",
+"title": "Uniform indices for semi-log-canonical log Calabi–Yau pairs",
+"titlePlain": "Uniform indices for semi-log-canonical log Calabi–Yau pairs",
+"date": "2026-10-05"
+},
+{
+"family": "034",
+"title": "Conditional good minimal models for compact Kähler fourfolds",
+"titlePlain": "Conditional good minimal models for compact Kähler fourfolds",
+"date": "2026-10-06"
+},
+{
+"family": "034",
+"title": "Log abundance in characteristic zero",
+"titlePlain": "Log abundance in characteristic zero",
+"date": "2026-09-24"
+},
+{
+"family": "034",
+"title": "Minimal metrics and interior injectivity for nef adjoints",
+"titlePlain": "Minimal metrics and interior injectivity for nef adjoints",
+"date": "2026-09-27"
+},
+{
+"family": "034",
+"title": "Fourfold nonvanishing by minimal metrics and moving jets",
+"titlePlain": "Fourfold nonvanishing by minimal metrics and moving jets",
+"date": "2026-09-27"
+},
+{
+"family": "034",
+"title": "Lifting sections from the reduced support of an adjoint",
+"titlePlain": "Lifting sections from the reduced support of an adjoint",
+"date": "2026-09-27"
+},
+{
+"family": "034",
+"title": "Schnell fiber spaces and good canonical models",
+"titlePlain": "Schnell fiber spaces and good canonical models",
+"date": "2026-09-24"
+},
+{
+"family": "034",
+"title": "Uniform log Iitaka fibrations and bounded moduli denominators",
+"titlePlain": "Uniform log Iitaka fibrations and bounded moduli denominators",
+"date": "2026-10-04"
+},
+{
+"family": "034",
+"title": "Uniform Pluricanonical Iitaka Fibrations",
+"titlePlain": "Uniform Pluricanonical Iitaka Fibrations",
+"date": "2026-10-03"
+},
+{
+"family": "034",
+"title": "Relative denominators and effective systems for log Calabi-Yau fibrations",
+"titlePlain": "Relative denominators and effective systems for log Calabi-Yau fibrations",
+"date": "2026-09-27"
+},
+{
+"family": "034",
+"title": "Arithmetic Stein-degree bounds for log Calabi–Yau pairs",
+"titlePlain": "Arithmetic Stein-degree bounds for log Calabi–Yau pairs",
+"date": "2026-09-25"
+},
+{
+"family": "034",
+"title": "Uniform effective log Iitaka fibrations for fourfolds",
+"titlePlain": "Uniform effective log Iitaka fibrations for fourfolds",
+"date": "2026-09-26"
+},
+{
+"family": "034",
+"title": "Abundance after nonvanishing for compact Kähler fourfolds",
+"titlePlain": "Abundance after nonvanishing for compact Kähler fourfolds",
+"date": "2026-09-27"
+},
+{
+"family": "035",
+"title": "Log abundance in numerical dimension one for threefolds in positive characteristic",
+"titlePlain": "Log abundance in numerical dimension one for threefolds in positive characteristic",
+"date": "2026-10-05"
+},
+{
+"family": "035",
+"title": "Abundance in numerical dimension one for terminal threefolds in positive characteristic",
+"titlePlain": "Abundance in numerical dimension one for terminal threefolds in positive characteristic",
+"date": "2026-09-24"
+},
+{
+"family": "036",
+"title": "Numerical semiampleness of nef adjoint classes on compact Kähler manifolds",
+"titlePlain": "Numerical semiampleness of nef adjoint classes on compact Kähler manifolds",
+"date": "2026-10-06"
+},
+{
+"family": "036",
+"title": "Numerical Semiampleness of Nef Adjoint Divisors",
+"titlePlain": "Numerical Semiampleness of Nef Adjoint Divisors",
+"date": "2026-10-03"
+},
+{
+"family": "036",
+"title": "Minimal models and Mori fibre spaces for generalized log canonical Q-pairs",
+"titlePlain": "Minimal models and Mori fibre spaces for generalized log canonical Q-pairs",
+"date": "2026-09-24"
+},
+{
+"family": "036",
+"title": "Minimal models in numerical dimension one",
+"titlePlain": "Minimal models in numerical dimension one",
+"date": "2026-09-24"
+},
+{
+"family": "037",
+"title": "The ordinary-double-point gap in every dimension",
+"titlePlain": "The ordinary-double-point gap in every dimension",
+"date": "2026-09-24"
+},
+{
+"family": "037",
+"title": "The normalized-volume gap in dimension four",
+"titlePlain": "The normalized-volume gap in dimension four",
+"date": "2026-09-24"
+},
+{
+"family": "038",
+"title": "Fujita's freeness conjecture",
+"titlePlain": "Fujita's freeness conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "039",
+"title": "Nagata's conjecture for plane curves",
+"titlePlain": "Nagata's conjecture for plane curves",
+"date": "2026-09-23"
+},
+{
+"family": "039",
+"title": "Maximal Seshadri constants on arbitrary polarized surfaces",
+"titlePlain": "Maximal Seshadri constants on arbitrary polarized surfaces",
+"date": "2026-09-23"
+},
+{
+"family": "039",
+"title": "Maximal Multipoint Seshadri Constants in Higher Dimensions",
+"titlePlain": "Maximal Multipoint Seshadri Constants in Higher Dimensions",
+"date": "2026-10-05"
+},
+{
+"family": "039",
+"title": "Maximal multipoint Seshadri constants in positive characteristic",
+"titlePlain": "Maximal multipoint Seshadri constants in positive characteristic",
+"date": "2026-10-05"
+},
+{
+"family": "040",
+"title": "Bloch’s conjecture for surfaces with p_g=0",
+"titlePlain": "Bloch’s conjecture for surfaces with p_g=0",
+"date": "2026-09-24"
+},
+{
+"family": "041",
+"title": "Projective-space bases of Lagrangian fibrations",
+"titlePlain": "Projective-space bases of Lagrangian fibrations",
+"date": "2026-09-23"
+},
+{
+"family": "041",
+"title": "The strong hyperkähler SYZ conjecture",
+"titlePlain": "The strong hyperkähler SYZ conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "042",
+"title": "Every complex K3 surface is Oka",
+"titlePlain": "Every complex K3 surface is Oka",
+"date": "2026-09-23"
+},
+{
+"family": "043",
+"title": "P=W in composite rank for fixed determinant",
+"titlePlain": "P=W in composite rank for fixed determinant",
+"date": "2026-09-24"
+},
+{
+"family": "044",
+"title": "The equivariant cohomological Hikita conjecture for arbitrary quivers",
+"titlePlain": "The equivariant cohomological Hikita conjecture for arbitrary quivers",
+"date": "2026-09-24"
+},
+{
+"family": "046",
+"title": "A projective fourfold with large fundamental group and non-Stein universal cover",
+"titlePlain": "A projective fourfold with large fundamental group and non-Stein universal cover",
+"date": "2026-10-05"
+},
+{
+"family": "046",
+"title": "A surface counterexample to Shafarevich holomorphic convexity",
+"titlePlain": "A surface counterexample to Shafarevich holomorphic convexity",
+"date": "2026-09-23"
+},
+{
+"family": "047",
+"title": "An explicit failure of complex affine-space cancellation",
+"titlePlain": "An explicit failure of complex affine-space cancellation",
+"date": "2026-09-23"
+},
+{
+"family": "048",
+"title": "A singular normal affine surface with free tangent sheaf",
+"titlePlain": "A singular normal affine surface with free tangent sheaf",
+"date": "2026-09-23"
+},
+{
+"family": "049",
+"title": "A stable coordinate that is not a coordinate in four variables",
+"titlePlain": "A stable coordinate that is not a coordinate in four variables",
+"date": "2026-10-05"
+},
+{
+"family": "049",
+"title": "An explicit noncoordinate polynomial with affine three-space zero fibre",
+"titlePlain": "An explicit noncoordinate polynomial with affine three-space zero fibre",
+"date": "2026-09-24"
+},
+{
+"family": "050",
+"title": "Ample rank-two bundles on the quadric surface without Griffiths-positive metrics",
+"titlePlain": "Ample rank-two bundles on the quadric surface without Griffiths-positive metrics",
+"date": "2026-09-24"
+},
+{
+"family": "051",
+"title": "Canonical ampleness of compact hyperbolic Kähler manifolds",
+"titlePlain": "Canonical ampleness of compact hyperbolic Kähler manifolds",
+"date": "2026-09-23"
+},
+{
+"family": "052",
+"title": "Universal-cover splitting for compact Kähler manifolds",
+"titlePlain": "Universal-cover splitting for compact Kähler manifolds",
+"date": "2026-09-23"
+},
+{
+"family": "052",
+"title": "Integrability of split tangent bundles on rationally connected manifolds",
+"titlePlain": "Integrability of split tangent bundles on rationally connected manifolds",
+"date": "2026-09-23"
+},
+{
+"family": "053",
+"title": "A high-arity counterexample to Pixton completeness in Chow",
+"titlePlain": "A high-arity counterexample to Pixton completeness in Chow",
+"date": "2026-09-24"
+},
+{
+"family": "054",
+"title": "Irrational cubic fourfolds with geometric K3 categories",
+"titlePlain": "Irrational cubic fourfolds with geometric K3 categories",
+"date": "2026-09-24"
+},
+{
+"family": "055",
+"title": "A Gepner stability condition on every smooth quintic threefold",
+"titlePlain": "A Gepner stability condition on every smooth quintic threefold",
+"date": "2026-09-24"
+},
+{
+"family": "055",
+"title": "Prescribed large-volume charges on threefolds with trivial canonical bundle",
+"titlePlain": "Prescribed large-volume charges on threefolds with trivial canonical bundle",
+"date": "2026-09-24"
+},
+{
+"family": "056",
+"title": "Termination of generalized log canonical flips on compact Kähler fourfolds",
+"titlePlain": "Termination of generalized log canonical flips on compact Kähler fourfolds",
+"date": "2026-10-07"
+},
+{
+"family": "056",
+"title": "Termination of generalized-canonical flips on compact Kähler fourfolds",
+"titlePlain": "Termination of generalized-canonical flips on compact Kähler fourfolds",
+"date": "2026-10-06"
+},
+{
+"family": "056",
+"title": "Termination for projective log canonical fourfolds with rational boundary",
+"titlePlain": "Termination for projective log canonical fourfolds with rational boundary",
+"date": "2026-09-24"
+},
+{
+"family": "056",
+"title": "Finite ordinary minimal model programs on compact Kähler fourfolds",
+"titlePlain": "Finite ordinary minimal model programs on compact Kähler fourfolds",
+"date": "2026-10-06"
+},
+{
+"family": "056",
+"title": "Finite ordinary minimal model programs on compact Kähler fourfolds",
+"titlePlain": "Finite ordinary minimal model programs on compact Kähler fourfolds",
+"date": "2026-09-24"
+},
+{
+"family": "057",
+"title": "The abelianity conjecture for special compact Kähler manifolds",
+"titlePlain": "The abelianity conjecture for special compact Kähler manifolds",
+"date": "2026-09-23"
+},
+{
+"family": "057",
+"title": "Two-step monodromy of special quasi-projective varieties",
+"titlePlain": "Two-step monodromy of special quasi-projective varieties",
+"date": "2026-09-24"
+},
+{
+"family": "057",
+"title": "A conditional abelianity theorem for special fourfold pairs with a half-weight divisor",
+"titlePlain": "A conditional abelianity theorem for special fourfold pairs with a half-weight divisor",
+"date": "2026-10-05"
+},
+{
+"family": "058",
+"title": "Semialgebraic universal covers of normal projective varieties",
+"titlePlain": "Semialgebraic universal covers of normal projective varieties",
+"date": "2026-09-24"
+},
+{
+"family": "058",
+"title": "Symmetry of semialgebraic bounded domains with compact quotient",
+"titlePlain": "Symmetry of semialgebraic bounded domains with compact quotient",
+"date": "2026-09-24"
+},
+{
+"family": "059",
+"title": "Ambiently homeomorphic isolated hypersurfaces of multiplicities two and three",
+"titlePlain": "Ambiently homeomorphic isolated hypersurfaces of multiplicities two and three",
+"date": "2026-09-24"
+},
+{
+"family": "059",
+"title": "Ambiently homeomorphic isolated hypersurface germs in ℂ⁴ with multiplicities four and five",
+"titlePlain": "Ambiently homeomorphic isolated hypersurface germs in ℂ⁴ with multiplicities four and five",
+"date": "2026-09-27"
+},
+{
+"family": "060",
+"title": "Global Spherical Shells on Minimal Surfaces of Class VII",
+"titlePlain": "Global Spherical Shells on Minimal Surfaces of Class VII",
+"date": "2026-09-24"
+},
+{
+"family": "062",
+"title": "Contact Fano manifolds and the LeBrun–Salamon conjecture",
+"titlePlain": "Contact Fano manifolds and the LeBrun–Salamon conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "063",
+"title": "The generalized Mukai conjecture",
+"titlePlain": "The generalized Mukai conjecture",
+"date": "2026-09-24"
+},
+{
+"family": "064",
+"title": "Topological triviality of mu-constant families of surface singularities",
+"titlePlain": "Topological triviality of mu-constant families of surface singularities",
+"date": "2026-09-24"
+},
+{
+"family": "065",
+"title": "Virasoro Constraints under Projectivization",
+"titlePlain": "Virasoro Constraints under Projectivization",
+"date": "2026-10-05"
+},
+{
+"family": "065",
+"title": "Virasoro Constraints for Projective Complete Intersections",
+"titlePlain": "Virasoro Constraints for Projective Complete Intersections",
+"date": "2026-09-24"
+},
+{
+"family": "066",
+"title": "Bounded klt complements for Fano contractions",
+"titlePlain": "Bounded klt complements for Fano contractions",
+"date": "2026-09-25"
+},
+{
+"family": "066",
+"title": "Uniform Cartier sections for Fano type contractions",
+"titlePlain": "Uniform Cartier sections for Fano type contractions",
+"date": "2026-09-25"
+},
+{
+"family": "067",
+"title": "The Campana–Peternell conjecture in dimension six",
+"titlePlain": "The Campana–Peternell conjecture in dimension six",
+"date": "2026-09-25"
+},
+{
+"family": "068",
+"title": "Anticanonical nonvanishing from smooth semipositivity",
+"titlePlain": "Anticanonical nonvanishing from smooth semipositivity",
+"date": "2026-09-26"
+},
+{
+"family": "068",
+"title": "Invariant anticanonical indices and conversion of twisted differentials",
+"titlePlain": "Invariant anticanonical indices and conversion of twisted differentials",
+"date": "2026-09-26"
+},
+{
+"family": "068",
+"title": "Bounded anticanonical metrics on klt pairs and torus quotients",
+"titlePlain": "Bounded anticanonical metrics on klt pairs and torus quotients",
+"date": "2026-09-26"
+},
+{
+"family": "068",
+"title": "Cohomological transfer and equivariant anticanonical sections",
+"titlePlain": "Cohomological transfer and equivariant anticanonical sections",
+"date": "2026-09-26"
+},
+{
+"family": "068",
+"title": "Metric descent and rank-preserving contractions",
+"titlePlain": "Metric descent and rank-preserving contractions",
+"date": "2026-09-26"
+},
+{
+"family": "068",
+"title": "Integrable metrics and effectivity with controlled boundary",
+"titlePlain": "Integrable metrics and effectivity with controlled boundary",
+"date": "2026-09-26"
+},
+{
+"family": "068",
+"title": "Exact orders and invariant anticanonical linear systems",
+"titlePlain": "Exact orders and invariant anticanonical linear systems",
+"date": "2026-09-26"
+},
+{
+"family": "069",
+"title": "Global quantum geometric Langlands at irrational level",
+"titlePlain": "Global quantum geometric Langlands at irrational level",
+"date": "2026-10-04"
+},
+{
+"family": "071",
+"title": "Removable Boundaries and Rigidity of Circle Domains",
+"titlePlain": "Removable Boundaries and Rigidity of Circle Domains",
+"date": "2026-09-23"
+},
+{
+"family": "071",
+"title": "Koebe's Circle-Domain Conjecture",
+"titlePlain": "Koebe's Circle-Domain Conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "072",
+"title": "Brennan's conjecture and sharp inverse-square integral means",
+"titlePlain": "Brennan's conjecture and sharp inverse-square integral means",
+"date": "2026-09-24"
+},
+{
+"family": "072",
+"title": "A strict inverse-first-power bound for univalent functions",
+"titlePlain": "A strict inverse-first-power bound for univalent functions",
+"date": "2026-09-24"
+},
+{
+"family": "073",
+"title": "The Falconer distance conjecture in all dimensions",
+"titlePlain": "The Falconer distance conjecture in all dimensions",
+"date": "2026-09-23"
+},
+{
+"family": "074",
+"title": "The Kakeya maximal conjecture in three dimensions",
+"titlePlain": "The Kakeya maximal conjecture in three dimensions",
+"date": "2026-09-23"
+},
+{
+"family": "074",
+"title": "Every four-dimensional Kakeya set has full Hausdorff dimension",
+"titlePlain": "Every four-dimensional Kakeya set has full Hausdorff dimension",
+"date": "2026-09-24"
+},
+{
+"family": "075",
+"title": "Almost-everywhere Fourier convergence in L log L",
+"titlePlain": "Almost-everywhere Fourier convergence in L log L",
+"date": "2026-09-23"
+},
+{
+"family": "076",
+"title": "Ultraflat real Littlewood polynomials",
+"titlePlain": "Ultraflat real Littlewood polynomials",
+"date": "2026-10-05"
+},
+{
+"family": "076",
+"title": "Nearly minimal maxima and positive minima of Littlewood polynomials",
+"titlePlain": "Nearly minimal maxima and positive minima of Littlewood polynomials",
+"date": "2026-10-05"
+},
+{
+"family": "076",
+"title": "Asymptotically minimal maxima of real Littlewood polynomials",
+"titlePlain": "Asymptotically minimal maxima of real Littlewood polynomials",
+"date": "2026-09-23"
+},
+{
+"family": "077",
+"title": "Elliptic capacity propagation and Fourier restriction to the sphere",
+"titlePlain": "Elliptic capacity propagation and Fourier restriction to the sphere",
+"date": "2026-09-24"
+},
+{
+"family": "077",
+"title": "Diagonal Fourier extension for positively curved surfaces in three dimensions",
+"titlePlain": "Diagonal Fourier extension for positively curved surfaces in three dimensions",
+"date": "2026-09-24"
+},
+{
+"family": "078",
+"title": "Bochner–Riesz multipliers in three dimensions",
+"titlePlain": "Bochner–Riesz multipliers in three dimensions",
+"date": "2026-09-24"
+},
+{
+"family": "079",
+"title": "Critical local smoothing for the three-dimensional wave equation",
+"titlePlain": "Critical local smoothing for the three-dimensional wave equation",
+"date": "2026-09-24"
+},
+{
+"family": "080",
+"title": "Endpoint convergence for the planar Schrodinger equation",
+"titlePlain": "Endpoint convergence for the planar Schrodinger equation",
+"date": "2026-09-24"
+},
+{
+"family": "080",
+"title": "Endpoint pointwise convergence for the Schrodinger equation in higher dimensions",
+"titlePlain": "Endpoint pointwise convergence for the Schrodinger equation in higher dimensions",
+"date": "2026-09-24"
+},
+{
+"family": "081",
+"title": "Riesz transforms and uniform rectifiability in higher codimension",
+"titlePlain": "Riesz transforms and uniform rectifiability in higher codimension",
+"date": "2026-09-24"
+},
+{
+"family": "082",
+"title": "Annular variation of the triangular Hilbert transform at the symmetric point",
+"titlePlain": "Annular variation of the triangular Hilbert transform at the symmetric point",
+"date": "2026-10-05"
+},
+{
+"family": "082",
+"title": "An L³ bound for the dyadic triangular Hilbert form",
+"titlePlain": "An L³ bound for the dyadic triangular Hilbert form",
+"date": "2026-10-05"
+},
+{
+"family": "082",
+"title": "The maximal triangular Hilbert transform at the symmetric point",
+"titlePlain": "The maximal triangular Hilbert transform at the symmetric point",
+"date": "2026-09-24"
+},
+{
+"family": "083",
+"title": "A uniform Hilbert transform estimate for Lipschitz directions",
+"titlePlain": "A uniform Hilbert transform estimate for Lipschitz directions",
+"date": "2026-09-25"
+},
+{
+"family": "084",
+"title": "The geometric case of the Erdős similarity conjecture",
+"titlePlain": "The geometric case of the Erdős similarity conjecture",
+"date": "2026-10-05"
+},
+{
+"family": "084",
+"title": "The dyadic case of the Erdős similarity conjecture",
+"titlePlain": "The dyadic case of the Erdős similarity conjecture",
+"date": "2026-09-25"
+},
+{
+"family": "085",
+"title": "An Endpoint Gradient Bound for the Centered Disk Maximal Operator",
+"titlePlain": "An Endpoint Gradient Bound for the Centered Disk Maximal Operator",
+"date": "2026-09-26"
+},
+{
+"family": "086",
+"title": "An $L$^{3} bound for the trilinear Hilbert transform",
+"titlePlain": "An L^3 bound for the trilinear Hilbert transform",
+"date": "2026-10-05"
+},
+{
+"family": "087",
+"title": "The symmetric Mahler conjecture and its equality cases",
+"titlePlain": "The symmetric Mahler conjecture and its equality cases",
+"date": "2026-09-22"
+},
+{
+"family": "087",
+"title": "The Mahler Conjecture for General Convex Bodies",
+"titlePlain": "The Mahler Conjecture for General Convex Bodies",
+"date": "2026-09-22"
+},
+{
+"family": "087",
+"title": "Symplectic Balls in Symmetric Polar Products",
+"titlePlain": "Symplectic Balls in Symmetric Polar Products",
+"date": "2026-09-22"
+},
+{
+"family": "088",
+"title": "Petty’s projection-volume conjecture in dimensions at least four",
+"titlePlain": "Petty’s projection-volume conjecture in dimensions at least four",
+"date": "2026-09-24"
+},
+{
+"family": "088",
+"title": "A product counterexample to the simplex maximum for projection-body volume",
+"titlePlain": "A product counterexample to the simplex maximum for projection-body volume",
+"date": "2026-09-24"
+},
+{
+"family": "089",
+"title": "Planar Graph Metrics Embed into L1 with Constant Distortion",
+"titlePlain": "Planar Graph Metrics Embed into L1 with Constant Distortion",
+"date": "2026-09-23"
+},
+{
+"family": "089",
+"title": "L1 Embeddings of Graphs of Bounded Treewidth",
+"titlePlain": "L1 Embeddings of Graphs of Bounded Treewidth",
+"date": "2026-09-23"
+},
+{
+"family": "090",
+"title": "An atomic certificate for triangular-lattice universal optimality",
+"titlePlain": "An atomic certificate for triangular-lattice universal optimality",
+"date": "2026-09-26"
+},
+{
+"family": "090",
+"title": "Universal optimality of the triangular lattice",
+"titlePlain": "Universal optimality of the triangular lattice",
+"date": "2026-09-23"
+},
+{
+"family": "090",
+"title": "A sharp Fourier certificate for planar circle packing",
+"titlePlain": "A sharp Fourier certificate for planar circle packing",
+"date": "2026-09-23"
+},
+{
+"family": "090",
+"title": "Triangular minimality for planar Coulomb renormalized energy",
+"titlePlain": "Triangular minimality for planar Coulomb renormalized energy",
+"date": "2026-09-23"
+},
+{
+"family": "091",
+"title": "The logarithmic Brunn–Minkowski conjecture",
+"titlePlain": "The logarithmic Brunn–Minkowski conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "092",
+"title": "A single-lattice covering bound of order n log n",
+"titlePlain": "A single-lattice covering bound of order n log n",
+"date": "2026-09-23"
+},
+{
+"family": "092",
+"title": "Translative covering densities of order n log n",
+"titlePlain": "Translative covering densities of order n log n",
+"date": "2026-09-23"
+},
+{
+"family": "093",
+"title": "A dimension-free logarithmic Sobolev inequality for subgaussian log-concave measures",
+"titlePlain": "A dimension-free logarithmic Sobolev inequality for subgaussian log-concave measures",
+"date": "2026-09-23"
+},
+{
+"family": "094",
+"title": "Subpolynomial dimension reduction in Lp",
+"titlePlain": "Subpolynomial dimension reduction in Lp",
+"date": "2026-09-23"
+},
+{
+"family": "095",
+"title": "Hyperbolicity Cones Without Semidefinite Lifts",
+"titlePlain": "Hyperbolicity Cones Without Semidefinite Lifts",
+"date": "2026-10-05"
+},
+{
+"family": "095",
+"title": "A nonspectrahedral hyperbolicity cone",
+"titlePlain": "A nonspectrahedral hyperbolicity cone",
+"date": "2026-09-24"
+},
+{
+"family": "095",
+"title": "An Exact Semidefinite Lift of a Nonspectrahedral Hyperbolicity Cone",
+"titlePlain": "An Exact Semidefinite Lift of a Nonspectrahedral Hyperbolicity Cone",
+"date": "2026-10-05"
+},
+{
+"family": "096",
+"title": "The Gaussian propeller bound in every dimension",
+"titlePlain": "The Gaussian propeller bound in every dimension",
+"date": "2026-09-24"
+},
+{
+"family": "097",
+"title": "The Euclidean Steinitz–Bergström theorem",
+"titlePlain": "The Euclidean Steinitz–Bergström theorem",
+"date": "2026-09-24"
+},
+{
+"family": "098",
+"title": "A doubling Hilbert subset with no finite-dimensional bi-Lipschitz embedding",
+"titlePlain": "A doubling Hilbert subset with no finite-dimensional bi-Lipschitz embedding",
+"date": "2026-09-25"
+},
+{
+"family": "099",
+"title": "Edit Distance in l1: Matching Bounds up to Constants in the Exponent",
+"titlePlain": "Edit Distance in l1: Matching Bounds up to Constants in the Exponent",
+"date": "2026-09-27"
+},
+{
+"family": "099",
+"title": "Finite-Circle Obstructions, Binary Codes, and Histogram Embeddings for Edit Distance",
+"titlePlain": "Finite-Circle Obstructions, Binary Codes, and Histogram Embeddings for Edit Distance",
+"date": "2026-09-27"
+},
+{
+"family": "099",
+"title": "Tree Constructions for the l1 Distortion of Binary Edit Distance",
+"titlePlain": "Tree Constructions for the l1 Distortion of Binary Edit Distance",
+"date": "2026-09-27"
+},
+{
+"family": "100",
+"title": "Finite angular cylinder covers below the half-area bound",
+"titlePlain": "Finite angular cylinder covers below the half-area bound",
+"date": "2026-09-27"
+},
+{
+"family": "100",
+"title": "Finite cylinder approximation of ruled sets",
+"titlePlain": "Finite cylinder approximation of ruled sets",
+"date": "2026-09-27"
+},
+{
+"family": "100",
+"title": "Slope-field perturbations of the two-cylinder covering",
+"titlePlain": "Slope-field perturbations of the two-cylinder covering",
+"date": "2026-09-27"
+},
+{
+"family": "100",
+"title": "Finite triangular approximation of radial sweeps",
+"titlePlain": "Finite triangular approximation of radial sweeps",
+"date": "2026-09-27"
+},
+{
+"family": "101",
+"title": "A sharp entropy bound and the simplex inequality for isotropic constants",
+"titlePlain": "A sharp entropy bound and the simplex inequality for isotropic constants",
+"date": "2026-10-05"
+},
+{
+"family": "102",
+"title": "The Unique Games Theorem",
+"titlePlain": "The Unique Games Theorem",
+"date": "2026-09-23"
+},
+{
+"family": "102",
+"title": "A Direct Proof of Optimal Max-Cut Hardness",
+"titlePlain": "A Direct Proof of Optimal Max-Cut Hardness",
+"date": "2026-09-23"
+},
+{
+"family": "102",
+"title": "The Factor-Two Hardness Threshold for Vertex Cover",
+"titlePlain": "The Factor-Two Hardness Threshold for Vertex Cover",
+"date": "2026-09-23"
+},
+{
+"family": "102",
+"title": "Constant-factor hardness of Min-UnCut",
+"titlePlain": "Constant-factor hardness of Min-UnCut",
+"date": "2026-09-23"
+},
+{
+"family": "102",
+"title": "Constant-factor hardness of directed feedback vertex set",
+"titlePlain": "Constant-factor hardness of directed feedback vertex set",
+"date": "2026-09-23"
+},
+{
+"family": "103",
+"title": "Exact derandomization of logarithmic space: L = RL = BPL",
+"titlePlain": "Exact derandomization of logarithmic space: L = RL = BPL",
+"date": "2026-09-23"
+},
+{
+"family": "104",
+"title": "Turn-Based Stochastic Mean-Payoff Games in Deterministic Quasipolynomial Time",
+"titlePlain": "Turn-Based Stochastic Mean-Payoff Games in Deterministic Quasipolynomial Time",
+"date": "2026-10-05"
+},
+{
+"family": "104",
+"title": "Mean-payoff parity games in quasipolynomial time",
+"titlePlain": "Mean-payoff parity games in quasipolynomial time",
+"date": "2026-10-05"
+},
+{
+"family": "104",
+"title": "Deterministic quasipolynomial-time mean-payoff games",
+"titlePlain": "Deterministic quasipolynomial-time mean-payoff games",
+"date": "2026-09-25"
+},
+{
+"family": "104",
+"title": "Randomized quasipolynomial-time mean-payoff games",
+"titlePlain": "Randomized quasipolynomial-time mean-payoff games",
+"date": "2026-09-25"
+},
+{
+"family": "105",
+"title": "Perfect completeness for 2-to-1 games",
+"titlePlain": "Perfect completeness for 2-to-1 games",
+"date": "2026-09-23"
+},
+{
+"family": "106",
+"title": "Hardness of finding large independent sets in three-colorable graphs",
+"titlePlain": "Hardness of finding large independent sets in three-colorable graphs",
+"date": "2026-09-24"
+},
+{
+"family": "107",
+"title": "An Upper Bound of 9/4 for the Matrix Multiplication Exponent",
+"titlePlain": "An Upper Bound of 9/4 for the Matrix Multiplication Exponent",
+"date": "2026-10-02"
+},
+{
+"family": "107",
+"title": "Staggered extraction for exact matrix multiplication over every field",
+"titlePlain": "Staggered extraction for exact matrix multiplication over every field",
+"date": "2026-09-24"
+},
+{
+"family": "108",
+"title": "A cubic lower bound for border determinantal complexity of the permanent",
+"titlePlain": "A cubic lower bound for border determinantal complexity of the permanent",
+"date": "2026-09-24"
+},
+{
+"family": "109",
+"title": "Integer multiplication below n log n",
+"titlePlain": "Integer multiplication below n log n",
+"date": "2026-09-23"
+},
+{
+"family": "110",
+"title": "Squared-logarithmic randomized k-server on arbitrary metrics",
+"titlePlain": "Squared-logarithmic randomized k-server on arbitrary metrics",
+"date": "2026-09-24"
+},
+{
+"family": "110",
+"title": "Uniform computation of the squared-logarithmic k-server bound",
+"titlePlain": "Uniform computation of the squared-logarithmic k-server bound",
+"date": "2026-09-24"
+},
+{
+"family": "111",
+"title": "One Sample Suffices for Matroid Prophet Inequalities against an Almighty Adversary",
+"titlePlain": "One Sample Suffices for Matroid Prophet Inequalities against an Almighty Adversary",
+"date": "2026-09-23"
+},
+{
+"family": "112",
+"title": "Beyond the Square-Root Exponent for Depth-Three Boolean Circuits",
+"titlePlain": "Beyond the Square-Root Exponent for Depth-Three Boolean Circuits",
+"date": "2026-09-23"
+},
+{
+"family": "113",
+"title": "A Fully Polynomial Randomized Approximation Scheme for Perfect Matchings in General Graphs",
+"titlePlain": "A Fully Polynomial Randomized Approximation Scheme for Perfect Matchings in General Graphs",
+"date": "2026-09-23"
+},
+{
+"family": "113",
+"title": "Entropy and Face Dimension of the Perfect-Matching Polytope",
+"titlePlain": "Entropy and Face Dimension of the Perfect-Matching Polytope",
+"date": "2026-09-23"
+},
+{
+"family": "114",
+"title": "An FPRAS for Common Integer Polymatroid Bases with Binary Capacities",
+"titlePlain": "An FPRAS for Common Integer Polymatroid Bases with Binary Capacities",
+"date": "2026-10-05"
+},
+{
+"family": "114",
+"title": "Approximate counting of common bases of two matroids",
+"titlePlain": "Approximate counting of common bases of two matroids",
+"date": "2026-09-23"
+},
+{
+"family": "115",
+"title": "Exact Uniform Sampling of Contingency Tables with Arbitrary Margins",
+"titlePlain": "Exact Uniform Sampling of Contingency Tables with Arbitrary Margins",
+"date": "2026-09-24"
+},
+{
+"family": "115",
+"title": "An FPRAS for Cell-Bounded Contingency Tables",
+"titlePlain": "An FPRAS for Cell-Bounded Contingency Tables",
+"date": "2026-09-24"
+},
+{
+"family": "116",
+"title": "Uniform Matrix Hitting Points in Every Positive Characteristic",
+"titlePlain": "Uniform Matrix Hitting Points in Every Positive Characteristic",
+"date": "2026-10-04"
+},
+{
+"family": "116",
+"title": "One Rational Matrix Hitting Point for Noncommutative Formulas",
+"titlePlain": "One Rational Matrix Hitting Point for Noncommutative Formulas",
+"date": "2026-09-24"
+},
+{
+"family": "116",
+"title": "Polynomial Hitting Lists for Noncommutative Rational Formulas",
+"titlePlain": "Polynomial Hitting Lists for Noncommutative Rational Formulas",
+"date": "2026-09-24"
+},
+{
+"family": "117",
+"title": "Constant-factor hardness of uniform sparsest cut",
+"titlePlain": "Constant-factor hardness of uniform sparsest cut",
+"date": "2026-09-24"
+},
+{
+"family": "117",
+"title": "Near-square-root logarithmic integrality gaps for uniform sparsest cut",
+"titlePlain": "Near-square-root logarithmic integrality gaps for uniform sparsest cut",
+"date": "2026-09-24"
+},
+{
+"family": "118",
+"title": "Additive hardness and unbounded configuration gaps in bin packing",
+"titlePlain": "Additive hardness and unbounded configuration gaps in bin packing",
+"date": "2026-09-24"
+},
+{
+"family": "119",
+"title": "Sharp binary-information contraction on the discrete cube",
+"titlePlain": "Sharp binary-information contraction on the discrete cube",
+"date": "2026-09-24"
+},
+{
+"family": "119",
+"title": "Hellinger contraction with arbitrary Boolean output bias",
+"titlePlain": "Hellinger contraction with arbitrary Boolean output bias",
+"date": "2026-09-24"
+},
+{
+"family": "120",
+"title": "Almost-Linear-Time Maximum-Cardinality Matching in General Graphs",
+"titlePlain": "Almost-Linear-Time Maximum-Cardinality Matching in General Graphs",
+"date": "2026-09-24"
+},
+{
+"family": "121",
+"title": "An Almost-Linear Approximation Scheme for Edit Distance",
+"titlePlain": "An Almost-Linear Approximation Scheme for Edit Distance",
+"date": "2026-09-24"
+},
+{
+"family": "122",
+"title": "Uniform quasipolynomial-time trace reconstruction",
+"titlePlain": "Uniform quasipolynomial-time trace reconstruction",
+"date": "2026-10-05"
+},
+{
+"family": "122",
+"title": "A latest-anchor induction with spectrally compact masks for worst-case trace reconstruction",
+"titlePlain": "A latest-anchor induction with spectrally compact masks for worst-case trace reconstruction",
+"date": "2026-10-05"
+},
+{
+"family": "122",
+"title": "Quantitative lower bounds for trace reconstruction",
+"titlePlain": "Quantitative lower bounds for trace reconstruction",
+"date": "2026-09-24"
+},
+{
+"family": "124",
+"title": "A Polynomial-Time Algorithm for Three-Machine Unit-Job Scheduling",
+"titlePlain": "A Polynomial-Time Algorithm for Three-Machine Unit-Job Scheduling",
+"date": "2026-09-24"
+},
+{
+"family": "125",
+"title": "Single-exponential recovery and bounded-price strictness for metric k-median",
+"titlePlain": "Single-exponential recovery and bounded-price strictness for metric k-median",
+"date": "2026-09-24"
+},
+{
+"family": "125",
+"title": "The approximation threshold for metric k-median",
+"titlePlain": "The approximation threshold for metric k-median",
+"date": "2026-09-24"
+},
+{
+"family": "126",
+"title": "Exponential PSD rank of positively shifted matching matrices",
+"titlePlain": "Exponential PSD rank of positively shifted matching matrices",
+"date": "2026-10-05"
+},
+{
+"family": "127",
+"title": "Average sensitivity of polynomial threshold functions",
+"titlePlain": "Average sensitivity of polynomial threshold functions",
+"date": "2026-09-25"
+},
+{
+"family": "128",
+"title": "A Polynomial-Time 2-Approximation for Shortest Common Superstring",
+"titlePlain": "A Polynomial-Time 2-Approximation for Shortest Common Superstring",
+"date": "2026-09-24"
+},
+{
+"family": "129",
+"title": "An exponential state lower bound for two-way nondeterministic complementation",
+"titlePlain": "An exponential state lower bound for two-way nondeterministic complementation",
+"date": "2026-09-25"
+},
+{
+"family": "129",
+"title": "An exponential two-way deterministic state lower bound for one-way liveness",
+"titlePlain": "An exponential two-way deterministic state lower bound for one-way liveness",
+"date": "2026-09-25"
+},
+{
+"family": "130",
+"title": "An explicit power saving for the exact discrete Fourier transform",
+"titlePlain": "An explicit power saving for the exact discrete Fourier transform",
+"date": "2026-09-25"
+},
+{
+"family": "130",
+"title": "Finite tensor savings and exact Fourier circuits",
+"titlePlain": "Finite tensor savings and exact Fourier circuits",
+"date": "2026-09-25"
+},
+{
+"family": "131",
+"title": "Polynomial mixing of the switch chain for every graphical degree sequence",
+"titlePlain": "Polynomial mixing of the switch chain for every graphical degree sequence",
+"date": "2026-09-25"
+},
+{
+"family": "132",
+"title": "A superquadratic separation between sensitivity and block sensitivity",
+"titlePlain": "A superquadratic separation between sensitivity and block sensitivity",
+"date": "2026-09-25"
+},
+{
+"family": "133",
+"title": "Parity lifts and bounded-treewidth witnesses for Weisfeiler–Leman equivalence",
+"titlePlain": "Parity lifts and bounded-treewidth witnesses for Weisfeiler–Leman equivalence",
+"date": "2026-09-25"
+},
+{
+"family": "133",
+"title": "The complexity of identifying a graph by Weisfeiler–Leman refinement",
+"titlePlain": "The complexity of identifying a graph by Weisfeiler–Leman refinement",
+"date": "2026-09-25"
+},
+{
+"family": "133",
+"title": "Unconditional time lower bounds for Weisfeiler–Leman equivalence",
+"titlePlain": "Unconditional time lower bounds for Weisfeiler–Leman equivalence",
+"date": "2026-09-25"
+},
+{
+"family": "133",
+"title": "Variable-dimension Weisfeiler–Leman equivalence on general and subcubic graphs",
+"titlePlain": "Variable-dimension Weisfeiler–Leman equivalence on general and subcubic graphs",
+"date": "2026-09-25"
+},
+{
+"family": "134",
+"title": "Finite Monoid Computations and a Uniform Generalized Star-Height Bound",
+"titlePlain": "Finite Monoid Computations and a Uniform Generalized Star-Height Bound",
+"date": "2026-09-25"
+},
+{
+"family": "134",
+"title": "Generalized Star Height at Most Four",
+"titlePlain": "Generalized Star Height at Most Four",
+"date": "2026-09-25"
+},
+{
+"family": "134",
+"title": "Generalized Star Height at Most Three",
+"titlePlain": "Generalized Star Height at Most Three",
+"date": "2026-09-25"
+},
+{
+"family": "135",
+"title": "Homogeneous depth-five lower bounds for iterated matrix multiplication",
+"titlePlain": "Homogeneous depth-five lower bounds for iterated matrix multiplication",
+"date": "2026-09-25"
+},
+{
+"family": "136",
+"title": "The PCP-for-PPAD conjecture: a quasilinear reduction",
+"titlePlain": "The PCP-for-PPAD conjecture: a quasilinear reduction",
+"date": "2026-09-25"
+},
+{
+"family": "137",
+"title": "Simulating One-Tape Time in Two-Fifths-Power Space",
+"titlePlain": "Simulating One-Tape Time in Two-Fifths-Power Space",
+"date": "2026-09-25"
+},
+{
+"family": "138",
+"title": "Subset Sum in Time $O(2^{0.49n})$",
+"titlePlain": "Subset Sum in Time O(2^0.49n)",
+"date": "2026-10-04"
+},
+{
+"family": "138",
+"title": "A Low-Space Algorithm for Worst-Case Subset Sum",
+"titlePlain": "A Low-Space Algorithm for Worst-Case Subset Sum",
+"date": "2026-09-26"
+},
+{
+"family": "139",
+"title": "Subpolynomial query complexity for well-conditioned log-concave sampling",
+"titlePlain": "Subpolynomial query complexity for well-conditioned log-concave sampling",
+"date": "2026-09-26"
+},
+{
+"family": "140",
+"title": "Memory and precision in noiseless Gaussian regression",
+"titlePlain": "Memory and precision in noiseless Gaussian regression",
+"date": "2026-09-27"
+},
+{
+"family": "140",
+"title": "Posterior replicas and conditional information in Gaussian regression",
+"titlePlain": "Posterior replicas and conditional information in Gaussian regression",
+"date": "2026-09-27"
+},
+{
+"family": "140",
+"title": "Localization costs and information growth for exact Gaussian observations",
+"titlePlain": "Localization costs and information growth for exact Gaussian observations",
+"date": "2026-09-27"
+},
+{
+"family": "140",
+"title": "Projection moments, positive cap domination, and Riesz estimates on the sphere",
+"titlePlain": "Projection moments, positive cap domination, and Riesz estimates on the sphere",
+"date": "2026-09-27"
+},
+{
+"family": "140",
+"title": "Replacing Gaussian observations in memory-constrained inference",
+"titlePlain": "Replacing Gaussian observations in memory-constrained inference",
+"date": "2026-09-27"
+},
+{
+"family": "140",
+"title": "Subsphere methods for memory-sample lower bounds in noiseless Gaussian regression",
+"titlePlain": "Subsphere methods for memory-sample lower bounds in noiseless Gaussian regression",
+"date": "2026-09-27"
+},
+{
+"family": "141",
+"title": "Existential–universal real sentences in the counting hierarchy",
+"titlePlain": "Existential–universal real sentences in the counting hierarchy",
+"date": "2026-10-04"
+},
+{
+"family": "142",
+"title": "Deterministic Polynomial Factorization over Prime Fields",
+"titlePlain": "Deterministic Polynomial Factorization over Prime Fields",
+"date": "2026-10-04"
+},
+{
+"family": "143",
+"title": "Uniform bounds for planar polynomial limit cycles",
+"titlePlain": "Uniform bounds for planar polynomial limit cycles",
+"date": "2026-09-24"
+},
+{
+"family": "143",
+"title": "Two limit cycles for quintic Liénard systems",
+"titlePlain": "Two limit cycles for quintic Liénard systems",
+"date": "2026-09-24"
+},
+{
+"family": "144",
+"title": "A smooth three-torus diffeomorphism with simple Lebesgue spectrum",
+"titlePlain": "A smooth three-torus diffeomorphism with simple Lebesgue spectrum",
+"date": "2026-09-23"
+},
+{
+"family": "145",
+"title": "Rokhlin's multiple-mixing problem for one transformation",
+"titlePlain": "Rokhlin's multiple-mixing problem for one transformation",
+"date": "2026-09-23"
+},
+{
+"family": "146",
+"title": "Positive Metric Entropy for the Standard Map at Large Parameters",
+"titlePlain": "Positive Metric Entropy for the Standard Map at Large Parameters",
+"date": "2026-09-23"
+},
+{
+"family": "147",
+"title": "Continuous Phase Foliations Create Analytic Caustic Collars",
+"titlePlain": "Continuous Phase Foliations Create Analytic Caustic Collars",
+"date": "2026-09-24"
+},
+{
+"family": "147",
+"title": "Rigidity of Smooth Billiards with a Continuous Caustic Collar",
+"titlePlain": "Rigidity of Smooth Billiards with a Continuous Caustic Collar",
+"date": "2026-09-24"
+},
+{
+"family": "148",
+"title": "The entropy-rate dimension formula for self-similar measures on the line",
+"titlePlain": "The entropy-rate dimension formula for self-similar measures on the line",
+"date": "2026-09-24"
+},
+{
+"family": "149",
+"title": "Uniform Permanence in Weakly Reversible Mass-Action Systems",
+"titlePlain": "Uniform Permanence in Weakly Reversible Mass-Action Systems",
+"date": "2026-10-05"
+},
+{
+"family": "149",
+"title": "Boundedness and persistence of weakly reversible mass-action systems",
+"titlePlain": "Boundedness and persistence of weakly reversible mass-action systems",
+"date": "2026-09-25"
+},
+{
+"family": "150",
+"title": "Weak mixing of triangular billiards with an irrational angle",
+"titlePlain": "Weak mixing of triangular billiards with an irrational angle",
+"date": "2026-10-05"
+},
+{
+"family": "150",
+"title": "Ergodicity of triangular billiards with an irrational angle",
+"titlePlain": "Ergodicity of triangular billiards with an irrational angle",
+"date": "2026-09-25"
+},
+{
+"family": "151",
+"title": "A C^1 Counterexample to the Entropy Conjecture",
+"titlePlain": "A C^1 Counterexample to the Entropy Conjecture",
+"date": "2026-09-25"
+},
+{
+"family": "152",
+"title": "A zero-entropy system without a smooth positive-volume model",
+"titlePlain": "A zero-entropy system without a smooth positive-volume model",
+"date": "2026-09-25"
+},
+{
+"family": "153",
+"title": "Arithmetic classification and non-Pisot singularity for Bernoulli convolutions",
+"titlePlain": "Arithmetic classification and non-Pisot singularity for Bernoulli convolutions",
+"date": "2026-10-03"
+},
+{
+"family": "154",
+"title": "Pointwise Multiple Ergodic Averages for Mixing Transformations",
+"titlePlain": "Pointwise Multiple Ergodic Averages for Mixing Transformations",
+"date": "2026-10-04"
+},
+{
+"family": "154",
+"title": "Pointwise convergence of fourfold ergodic averages for mixing transformations",
+"titlePlain": "Pointwise convergence of fourfold ergodic averages for mixing transformations",
+"date": "2026-10-04"
+},
+{
+"family": "154",
+"title": "Triple ergodic averages with distinct integer slopes",
+"titlePlain": "Triple ergodic averages with distinct integer slopes",
+"date": "2026-10-04"
+},
+{
+"family": "154",
+"title": "Pointwise convergence of triple ergodic averages for mixing transformations",
+"titlePlain": "Pointwise convergence of triple ergodic averages for mixing transformations",
+"date": "2026-10-04"
+},
+{
+"family": "155",
+"title": "A translational tile with no fully periodic tiling in dimension three",
+"titlePlain": "A translational tile with no fully periodic tiling in dimension three",
+"date": "2026-09-23"
+},
+{
+"family": "156",
+"title": "A nine-dimensional counterexample to Borsuk's covering assertion",
+"titlePlain": "A nine-dimensional counterexample to Borsuk's covering assertion",
+"date": "2026-09-23"
+},
+{
+"family": "157",
+"title": "A counterexample to Hadwiger's conjecture",
+"titlePlain": "A counterexample to Hadwiger's conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "157",
+"title": "A counterexample to the Colin de Verdière chromatic conjecture",
+"titlePlain": "A counterexample to the Colin de Verdière chromatic conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "157",
+"title": "A linear list-coloring bound in terms of the Hadwiger number",
+"titlePlain": "A linear list-coloring bound in terms of the Hadwiger number",
+"date": "2026-09-23"
+},
+{
+"family": "158",
+"title": "The Euclidean plane is not five-colorable",
+"titlePlain": "The Euclidean plane is not five-colorable",
+"date": "2026-09-23"
+},
+{
+"family": "159",
+"title": "Quasipolynomial Bounds for Arithmetic Progressions",
+"titlePlain": "Quasipolynomial Bounds for Arithmetic Progressions",
+"date": "2026-09-23"
+},
+{
+"family": "160",
+"title": "Quantitative Superexponential Bounds for van der Waerden Numbers",
+"titlePlain": "Quantitative Superexponential Bounds for van der Waerden Numbers",
+"date": "2026-09-23"
+},
+{
+"family": "161",
+"title": "A counterexample to Sidorenko's conjecture",
+"titlePlain": "A counterexample to Sidorenko's conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "162",
+"title": "Balanced counterexamples to Ryser's conjecture at prime orders",
+"titlePlain": "Balanced counterexamples to Ryser's conjecture at prime orders",
+"date": "2026-09-27"
+},
+{
+"family": "162",
+"title": "A counterexample to Ryser's covering conjecture",
+"titlePlain": "A counterexample to Ryser's covering conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "164",
+"title": "Monochromatic finite sums and products in the positive integers",
+"titlePlain": "Monochromatic finite sums and products in the positive integers",
+"date": "2026-09-23"
+},
+{
+"family": "165",
+"title": "The crossing number of complete graphs",
+"titlePlain": "The crossing number of complete graphs",
+"date": "2026-09-23"
+},
+{
+"family": "165",
+"title": "The crossing number of complete bipartite graphs",
+"titlePlain": "The crossing number of complete bipartite graphs",
+"date": "2026-09-23"
+},
+{
+"family": "166",
+"title": "The higher-dimensional Erdős distinct-distances conjecture",
+"titlePlain": "The higher-dimensional Erdős distinct-distances conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "167",
+"title": "The weak pinned planar distance theorem",
+"titlePlain": "The weak pinned planar distance theorem",
+"date": "2026-09-23"
+},
+{
+"family": "167",
+"title": "A power saving for planar unit distances",
+"titlePlain": "A power saving for planar unit distances",
+"date": "2026-09-23"
+},
+{
+"family": "168",
+"title": "Combinatorial invariance of Kazhdan–Lusztig polynomials",
+"titlePlain": "Combinatorial invariance of Kazhdan–Lusztig polynomials",
+"date": "2026-09-24"
+},
+{
+"family": "169",
+"title": "Elementary positivity of chromatic quasisymmetric functions",
+"titlePlain": "Elementary positivity of chromatic quasisymmetric functions",
+"date": "2026-09-24"
+},
+{
+"family": "170",
+"title": "The sharp logarithmic exponent of r(5,t)",
+"titlePlain": "The sharp logarithmic exponent of r(5,t)",
+"date": "2026-09-24"
+},
+{
+"family": "170",
+"title": "Sharp logarithmic exponents for fixed off-diagonal Ramsey numbers",
+"titlePlain": "Sharp logarithmic exponents for fixed off-diagonal Ramsey numbers",
+"date": "2026-09-24"
+},
+{
+"family": "171",
+"title": "The hypercube Ramsey number has linear order",
+"titlePlain": "The hypercube Ramsey number has linear order",
+"date": "2026-09-23"
+},
+{
+"family": "172",
+"title": "A classification of finite Euclidean Ramsey configurations",
+"titlePlain": "A classification of finite Euclidean Ramsey configurations",
+"date": "2026-09-23"
+},
+{
+"family": "173",
+"title": "A proof of Seymour’s second-neighborhood conjecture",
+"titlePlain": "A proof of Seymour’s second-neighborhood conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "174",
+"title": "The strong thin tree conjecture",
+"titlePlain": "The strong thin tree conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "174",
+"title": "A polynomial-time construction of strong thin trees",
+"titlePlain": "A polynomial-time construction of strong thin trees",
+"date": "2026-09-23"
+},
+{
+"family": "175",
+"title": "Graph Decompositions at the Integral Expectation Threshold",
+"titlePlain": "Graph Decompositions at the Integral Expectation Threshold",
+"date": "2026-10-05"
+},
+{
+"family": "175",
+"title": "Integral and fractional expectation thresholds are equivalent",
+"titlePlain": "Integral and fractional expectation thresholds are equivalent",
+"date": "2026-09-23"
+},
+{
+"family": "175",
+"title": "Talagrand’s discrete-convexity conjecture",
+"titlePlain": "Talagrand’s discrete-convexity conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "176",
+"title": "The second Kahn–Kalai conjecture",
+"titlePlain": "The second Kahn–Kalai conjecture",
+"date": "2026-09-24"
+},
+{
+"family": "177",
+"title": "Bounded-degree coboundary expanders in every dimension",
+"titlePlain": "Bounded-degree coboundary expanders in every dimension",
+"date": "2026-09-24"
+},
+{
+"family": "178",
+"title": "Deterministic nonbipartite Ramanujan graphs in every fixed degree",
+"titlePlain": "Deterministic nonbipartite Ramanujan graphs in every fixed degree",
+"date": "2026-09-23"
+},
+{
+"family": "179",
+"title": "The circulant Hadamard conjecture",
+"titlePlain": "The circulant Hadamard conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "180",
+"title": "Paired states and Hamiltonian cycles in cubic bipartite planar graphs",
+"titlePlain": "Paired states and Hamiltonian cycles in cubic bipartite planar graphs",
+"date": "2026-09-24"
+},
+{
+"family": "181",
+"title": "A linear cycle-and-edge decomposition of every graph",
+"titlePlain": "A linear cycle-and-edge decomposition of every graph",
+"date": "2026-09-24"
+},
+{
+"family": "182",
+"title": "A power saving for intersective polynomial differences with an exponent depending only on the degree",
+"titlePlain": "A power saving for intersective polynomial differences with an exponent depending only on the degree",
+"date": "2026-10-05"
+},
+{
+"family": "182",
+"title": "A Power Saving for Polynomial Differences at Prime Arguments",
+"titlePlain": "A Power Saving for Polynomial Differences at Prime Arguments",
+"date": "2026-10-05"
+},
+{
+"family": "182",
+"title": "A power saving for square-difference-free sets",
+"titlePlain": "A power saving for square-difference-free sets",
+"date": "2026-09-24"
+},
+{
+"family": "183",
+"title": "A power saving for planar halving lines",
+"titlePlain": "A power saving for planar halving lines",
+"date": "2026-09-25"
+},
+{
+"family": "184",
+"title": "Correspondence coloring graphs with a forbidden clique",
+"titlePlain": "Correspondence coloring graphs with a forbidden clique",
+"date": "2026-10-05"
+},
+{
+"family": "184",
+"title": "A logarithmic independence bound for clique-free graphs",
+"titlePlain": "A logarithmic independence bound for clique-free graphs",
+"date": "2026-09-25"
+},
+{
+"family": "185",
+"title": "A Counterexample to the Infinite Matroid Packing/Covering Conjecture",
+"titlePlain": "A Counterexample to the Infinite Matroid Packing/Covering Conjecture",
+"date": "2026-09-24"
+},
+{
+"family": "186",
+"title": "A uniform influence bound for hypergraph properties",
+"titlePlain": "A uniform influence bound for hypergraph properties",
+"date": "2026-10-05"
+},
+{
+"family": "186",
+"title": "A Sharp Threshold Bound for Monotone Graph Properties",
+"titlePlain": "A Sharp Threshold Bound for Monotone Graph Properties",
+"date": "2026-09-25"
+},
+{
+"family": "187",
+"title": "Snaky in 21 Maker moves",
+"titlePlain": "Snaky in 21 Maker moves",
+"date": "2026-09-25"
+},
+{
+"family": "188",
+"title": "The sharp terminal leave in random triangle removal",
+"titlePlain": "The sharp terminal leave in random triangle removal",
+"date": "2026-09-25"
+},
+{
+"family": "189",
+"title": "Cycle--clique Ramsey numbers",
+"titlePlain": "Cycle--clique Ramsey numbers",
+"date": "2026-09-25"
+},
+{
+"family": "190",
+"title": "Polynomial removal fails for ordered binary matrices",
+"titlePlain": "Polynomial removal fails for ordered binary matrices",
+"date": "2026-09-25"
+},
+{
+"family": "191",
+"title": "A power improvement in the Heilbronn triangle lower bound",
+"titlePlain": "A power improvement in the Heilbronn triangle lower bound",
+"date": "2026-09-25"
+},
+{
+"family": "192",
+"title": "Unbounded Violations of the Square-Root Degree Bound",
+"titlePlain": "Unbounded Violations of the Square-Root Degree Bound",
+"date": "2026-09-26"
+},
+{
+"family": "193",
+"title": "Positivity of Serre's Intersection Multiplicity",
+"titlePlain": "Positivity of Serre's Intersection Multiplicity",
+"date": "2026-09-23"
+},
+{
+"family": "194",
+"title": "Lech's multiplicity conjecture",
+"titlePlain": "Lech's multiplicity conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "195",
+"title": "A Complete Local Domain without a Small Cohen–Macaulay Module",
+"titlePlain": "A Complete Local Domain without a Small Cohen–Macaulay Module",
+"date": "2026-09-23"
+},
+{
+"family": "196",
+"title": "A Torsion-Free Group Algebra with Zero Divisors",
+"titlePlain": "A Torsion-Free Group Algebra with Zero Divisors",
+"date": "2026-09-23"
+},
+{
+"family": "197",
+"title": "A Torsion-Free Group Algebra That Is Not Directly Finite",
+"titlePlain": "A Torsion-Free Group Algebra That Is Not Directly Finite",
+"date": "2026-10-04"
+},
+{
+"family": "197",
+"title": "A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Characteristic Two",
+"titlePlain": "A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Characteristic Two",
+"date": "2026-09-23"
+},
+{
+"family": "197",
+"title": "A Counterexample to the Group-Ring Determinant Conjecture",
+"titlePlain": "A Counterexample to the Group-Ring Determinant Conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "197",
+"title": "A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Odd Characteristic",
+"titlePlain": "A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Odd Characteristic",
+"date": "2026-09-26"
+},
+{
+"family": "198",
+"title": "An algebra of infinite little finitistic dimension",
+"titlePlain": "An algebra of infinite little finitistic dimension",
+"date": "2026-09-23"
+},
+{
+"family": "199",
+"title": "An explicit counterexample to the Auslander-Reiten conjecture",
+"titlePlain": "An explicit counterexample to the Auslander-Reiten conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "199",
+"title": "A counterexample to Tachikawa's second conjecture",
+"titlePlain": "A counterexample to Tachikawa's second conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "200",
+"title": "The Artinian Lex-Plus-Powers Betti Theorem",
+"titlePlain": "The Artinian Lex-Plus-Powers Betti Theorem",
+"date": "2026-09-23"
+},
+{
+"family": "200",
+"title": "Commuting Division-Coefficient Forms and the Artinian Eisenbud--Green--Harris Conjecture",
+"titlePlain": "Commuting Division-Coefficient Forms and the Artinian Eisenbud--Green--Harris Conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "201",
+"title": "A Counterexample to Kurosh’s Division-Ring Problem",
+"titlePlain": "A Counterexample to Kurosh’s Division-Ring Problem",
+"date": "2026-09-23"
+},
+{
+"family": "202",
+"title": "The Blockwise Alperin Weight Conjecture",
+"titlePlain": "The Blockwise Alperin Weight Conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "203",
+"title": "Donovan's Conjecture over Algebraically Closed Fields",
+"titlePlain": "Donovan's Conjecture over Algebraically Closed Fields",
+"date": "2026-09-24"
+},
+{
+"family": "203",
+"title": "Integral Donovan Finiteness over Witt Vectors",
+"titlePlain": "Integral Donovan Finiteness over Witt Vectors",
+"date": "2026-09-25"
+},
+{
+"family": "204",
+"title": "Tensor saturation for even spin groups",
+"titlePlain": "Tensor saturation for even spin groups",
+"date": "2026-09-24"
+},
+{
+"family": "205",
+"title": "Universal Tensor Squares for Symmetric Groups",
+"titlePlain": "Universal Tensor Squares for Symmetric Groups",
+"date": "2026-09-24"
+},
+{
+"family": "205",
+"title": "A Cyclic Polytabloid Proof of Saxl's Conjecture",
+"titlePlain": "A Cyclic Polytabloid Proof of Saxl's Conjecture",
+"date": "2026-09-24"
+},
+{
+"family": "206",
+"title": "Finite congruence lattices: characterization and undecidability",
+"titlePlain": "Finite congruence lattices: characterization and undecidability",
+"date": "2026-09-24"
+},
+{
+"family": "206",
+"title": "A negative solution to the finite lattice representation problem",
+"titlePlain": "A negative solution to the finite lattice representation problem",
+"date": "2026-09-24"
+},
+{
+"family": "207",
+"title": "The ℓ¹-Bass Conjecture for Discrete Groups",
+"titlePlain": "The ℓ¹-Bass Conjecture for Discrete Groups",
+"date": "2026-10-05"
+},
+{
+"family": "207",
+"title": "The Bass trace conjecture and the characteristic-zero Kaplansky idempotent conjecture",
+"titlePlain": "The Bass trace conjecture and the characteristic-zero Kaplansky idempotent conjecture",
+"date": "2026-09-24"
+},
+{
+"family": "208",
+"title": "Fiber functors for finite symmetric tensor categories in positive characteristic",
+"titlePlain": "Fiber functors for finite symmetric tensor categories in positive characteristic",
+"date": "2026-09-24"
+},
+{
+"family": "209",
+"title": "An integral counterexample to Gersten's conjecture",
+"titlePlain": "An integral counterexample to Gersten's conjecture",
+"date": "2026-09-25"
+},
+{
+"family": "209",
+"title": "An integral degree-three Gersten counterexample",
+"titlePlain": "An integral degree-three Gersten counterexample",
+"date": "2026-09-26"
+},
+{
+"family": "210",
+"title": "Foulkes' conjecture for the sixth symmetric power",
+"titlePlain": "Foulkes' conjecture for the sixth symmetric power",
+"date": "2026-09-25"
+},
+{
+"family": "210",
+"title": "Quadratic stabilization of the canonical Foulkes--Howe map",
+"titlePlain": "Quadratic stabilization of the canonical Foulkes--Howe map",
+"date": "2026-09-25"
+},
+{
+"family": "211",
+"title": "Random Walks on Critical FK–Ising Maps and Liouville Brownian Motion",
+"titlePlain": "Random Walks on Critical FK–Ising Maps and Liouville Brownian Motion",
+"date": "2026-10-05"
+},
+{
+"family": "211",
+"title": "Spectral convergence for critical FK–Ising planar maps",
+"titlePlain": "Spectral convergence for critical FK–Ising planar maps",
+"date": "2026-10-05"
+},
+{
+"family": "211",
+"title": "A Linear Clock for Random Walk on Tree-Weighted Planar Maps",
+"titlePlain": "A Linear Clock for Random Walk on Tree-Weighted Planar Maps",
+"date": "2026-10-05"
+},
+{
+"family": "211",
+"title": "Canonical conformal limits of subcritical FK planar maps",
+"titlePlain": "Canonical conformal limits of subcritical FK planar maps",
+"date": "2026-09-24"
+},
+{
+"family": "211",
+"title": "The critical Liouville quantum sphere and geometric limits of FK maps at q=4",
+"titlePlain": "The critical Liouville quantum sphere and geometric limits of FK maps at q=4",
+"date": "2026-09-24"
+},
+{
+"family": "211",
+"title": "Metric-measure limits of subcritical FK and spanning-tree planar maps",
+"titlePlain": "Metric-measure limits of subcritical FK and spanning-tree planar maps",
+"date": "2026-09-24"
+},
+{
+"family": "211",
+"title": "Brownian continuum random tree limits of finite Fortuin–Kasteleyn maps above four",
+"titlePlain": "Brownian continuum random tree limits of finite Fortuin–Kasteleyn maps above four",
+"date": "2026-09-24"
+},
+{
+"family": "212",
+"title": "No bigeodesics in planar first-passage percolation",
+"titlePlain": "No bigeodesics in planar first-passage percolation",
+"date": "2026-09-24"
+},
+{
+"family": "212",
+"title": "Strict convexity and differentiability of the planar exponential first-passage limit shape",
+"titlePlain": "Strict convexity and differentiability of the planar exponential first-passage limit shape",
+"date": "2026-09-24"
+},
+{
+"family": "213",
+"title": "Critical bond and site percolation on the cubic lattice",
+"titlePlain": "Critical bond and site percolation on the cubic lattice",
+"date": "2026-09-24"
+},
+{
+"family": "213",
+"title": "No percolation at criticality on quasi-transitive graphs",
+"titlePlain": "No percolation at criticality on quasi-transitive graphs",
+"date": "2026-09-24"
+},
+{
+"family": "214",
+"title": "Nonuniqueness of percolation on nonamenable quasi-transitive graphs",
+"titlePlain": "Nonuniqueness of percolation on nonamenable quasi-transitive graphs",
+"date": "2026-09-24"
+},
+{
+"family": "215",
+"title": "The canonical massive continuum limit of the two-dimensional O(3) model",
+"titlePlain": "The canonical massive continuum limit of the two-dimensional O(3) model",
+"date": "2026-10-04"
+},
+{
+"family": "215",
+"title": "An Isolated Particle Pole for the Two-Dimensional O(3) Spin Field",
+"titlePlain": "An Isolated Particle Pole for the Two-Dimensional O(3) Spin Field",
+"date": "2026-10-04"
+},
+{
+"family": "215",
+"title": "Exact mass asymptotics for the two-dimensional O(4) lattice model",
+"titlePlain": "Exact mass asymptotics for the two-dimensional O(4) lattice model",
+"date": "2026-10-05"
+},
+{
+"family": "215",
+"title": "Sharp mass bounds for the two-dimensional O(4) model",
+"titlePlain": "Sharp mass bounds for the two-dimensional O(4) model",
+"date": "2026-09-23"
+},
+{
+"family": "215",
+"title": "Exponential decay in two-dimensional classical O(n) models",
+"titlePlain": "Exponential decay in two-dimensional classical O(n) models",
+"date": "2026-09-23"
+},
+{
+"family": "216",
+"title": "The critical logarithmic correction for the planar XY model",
+"titlePlain": "The critical logarithmic correction for the planar XY model",
+"date": "2026-10-05"
+},
+{
+"family": "216",
+"title": "Critical Center Magnetization in the Planar XY Model",
+"titlePlain": "Critical Center Magnetization in the Planar XY Model",
+"date": "2026-10-05"
+},
+{
+"family": "216",
+"title": "The Critical Spin Field of the Planar XY Model",
+"titlePlain": "The Critical Spin Field of the Planar XY Model",
+"date": "2026-10-05"
+},
+{
+"family": "216",
+"title": "Essential Singularity of the Correlation Length in the Planar XY Model",
+"titlePlain": "Essential Singularity of the Correlation Length in the Planar XY Model",
+"date": "2026-10-05"
+},
+{
+"family": "216",
+"title": "The critical correlation exponent of the planar XY model",
+"titlePlain": "The critical correlation exponent of the planar XY model",
+"date": "2026-09-24"
+},
+{
+"family": "216",
+"title": "BKT universality for height and planar spin fields",
+"titlePlain": "BKT universality for height and planar spin fields",
+"date": "2026-09-24"
+},
+{
+"family": "217",
+"title": "The low-temperature Sherrington–Kirkpatrick free-energy limiting law",
+"titlePlain": "The low-temperature Sherrington–Kirkpatrick free-energy limiting law",
+"date": "2026-09-24"
+},
+{
+"family": "217",
+"title": "The low-temperature Sherrington–Kirkpatrick fluctuation scale",
+"titlePlain": "The low-temperature Sherrington–Kirkpatrick fluctuation scale",
+"date": "2026-09-24"
+},
+{
+"family": "218",
+"title": "Quenched SLE₃ limits for general weak random-bond Ising models",
+"titlePlain": "Quenched SLE₃ limits for general weak random-bond Ising models",
+"date": "2026-10-05"
+},
+{
+"family": "218",
+"title": "Quenched SLE₃ Universality for the Weak Random-Bond Ising Model",
+"titlePlain": "Quenched SLE₃ Universality for the Weak Random-Bond Ising Model",
+"date": "2026-10-05"
+},
+{
+"family": "218",
+"title": "Logarithmic Relative Fluctuations in the Weakly Disordered Planar Ising Model",
+"titlePlain": "Logarithmic Relative Fluctuations in the Weakly Disordered Planar Ising Model",
+"date": "2026-10-05"
+},
+{
+"family": "218",
+"title": "Conformal universality of bulk Ising correlations under weak interactions",
+"titlePlain": "Conformal universality of bulk Ising correlations under weak interactions",
+"date": "2026-09-23"
+},
+{
+"family": "218",
+"title": "SLE3 universality for weak finite-range Ising interactions",
+"titlePlain": "SLE3 universality for weak finite-range Ising interactions",
+"date": "2026-09-23"
+},
+{
+"family": "218",
+"title": "Buffered comparison and stopping-band resolution in critical Ising",
+"titlePlain": "Buffered comparison and stopping-band resolution in critical Ising",
+"date": "2026-09-23"
+},
+{
+"family": "219",
+"title": "Fixed-energy universality for weak Anderson disorder on random regular graphs",
+"titlePlain": "Fixed-energy universality for weak Anderson disorder on random regular graphs",
+"date": "2026-10-05"
+},
+{
+"family": "219",
+"title": "GOE bulk universality for fixed-degree random regular graphs",
+"titlePlain": "GOE bulk universality for fixed-degree random regular graphs",
+"date": "2026-09-23"
+},
+{
+"family": "220",
+"title": "A directional zero–one law for finite-range-dependent random environments",
+"titlePlain": "A directional zero–one law for finite-range-dependent random environments",
+"date": "2026-10-05"
+},
+{
+"family": "220",
+"title": "A directional zero–one law under strict ellipticity",
+"titlePlain": "A directional zero–one law under strict ellipticity",
+"date": "2026-09-23"
+},
+{
+"family": "220",
+"title": "Directional transience implies ballisticity",
+"titlePlain": "Directional transience implies ballisticity",
+"date": "2026-09-23"
+},
+{
+"family": "221",
+"title": "The Mézard–Parisi formula for diluted spin glasses",
+"titlePlain": "The Mézard–Parisi formula for diluted spin glasses",
+"date": "2026-09-23"
+},
+{
+"family": "222",
+"title": "The free energy of the Ising random perceptron",
+"titlePlain": "The free energy of the Ising random perceptron",
+"date": "2026-09-24"
+},
+{
+"family": "222",
+"title": "Microscopic jamming in the negative spherical perceptron",
+"titlePlain": "Microscopic jamming in the negative spherical perceptron",
+"date": "2026-09-24"
+},
+{
+"family": "222",
+"title": "The spherical perceptron with bi-orthogonally invariant disorder",
+"titlePlain": "The spherical perceptron with bi-orthogonally invariant disorder",
+"date": "2026-09-24"
+},
+{
+"family": "222",
+"title": "The free energy of the spherical random perceptron",
+"titlePlain": "The free energy of the spherical random perceptron",
+"date": "2026-09-24"
+},
+{
+"family": "223",
+"title": "Square-lattice FK interfaces and nested loops for 1 <= q < 4",
+"titlePlain": "Square-lattice FK interfaces and nested loops for 1 <= q < 4",
+"date": "2026-09-23"
+},
+{
+"family": "223",
+"title": "Self-dual random-cluster interfaces below one",
+"titlePlain": "Self-dual random-cluster interfaces below one",
+"date": "2026-09-23"
+},
+{
+"family": "223",
+"title": "Quenched SLE Universality for Weakly Disordered FK–Ising Interfaces",
+"titlePlain": "Quenched SLE Universality for Weakly Disordered FK–Ising Interfaces",
+"date": "2026-10-05"
+},
+{
+"family": "223",
+"title": "Thermal FK–Ising interfaces and massive SLE",
+"titlePlain": "Thermal FK–Ising interfaces and massive SLE",
+"date": "2026-10-05"
+},
+{
+"family": "223",
+"title": "Natural Occupation Measures for Critical Square-Lattice FK Interfaces",
+"titlePlain": "Natural Occupation Measures for Critical Square-Lattice FK Interfaces",
+"date": "2026-10-05"
+},
+{
+"family": "223",
+"title": "Conformal Limits of Critical Square-Lattice Random-Cluster Interfaces",
+"titlePlain": "Conformal Limits of Critical Square-Lattice Random-Cluster Interfaces",
+"date": "2026-10-05"
+},
+{
+"family": "224",
+"title": "From critical crossings to quenched near-critical universality in Voronoi percolation",
+"titlePlain": "From critical crossings to quenched near-critical universality in Voronoi percolation",
+"date": "2026-10-05"
+},
+{
+"family": "224",
+"title": "A Pivotal Amplitude for Voronoi Percolation from Cardy's Formula",
+"titlePlain": "A Pivotal Amplitude for Voronoi Percolation from Cardy's Formula",
+"date": "2026-10-05"
+},
+{
+"family": "224",
+"title": "Cardy’s formula for critical Poisson–Voronoi percolation",
+"titlePlain": "Cardy’s formula for critical Poisson–Voronoi percolation",
+"date": "2026-09-23"
+},
+{
+"family": "225",
+"title": "The Gaussian free field limit of the balanced six-vertex model with variance multiplier 1/arcsin(c/2)",
+"titlePlain": "The Gaussian free field limit of the balanced six-vertex model with variance multiplier 1/arcsin(c/2)",
+"date": "2026-09-23"
+},
+{
+"family": "226",
+"title": "The curve scaling limit of half-plane double dimers",
+"titlePlain": "The curve scaling limit of half-plane double dimers",
+"date": "2026-09-23"
+},
+{
+"family": "227",
+"title": "Universality of critical quench autocorrelations in the Sherrington–Kirkpatrick model",
+"titlePlain": "Universality of critical quench autocorrelations in the Sherrington–Kirkpatrick model",
+"date": "2026-10-05"
+},
+{
+"family": "227",
+"title": "Functional universality of critical SK autocorrelations",
+"titlePlain": "Functional universality of critical SK autocorrelations",
+"date": "2026-10-05"
+},
+{
+"family": "227",
+"title": "A spectral gap throughout the high-temperature Sherrington–Kirkpatrick phase",
+"titlePlain": "A spectral gap throughout the high-temperature Sherrington–Kirkpatrick phase",
+"date": "2026-09-24"
+},
+{
+"family": "227",
+"title": "Cutoff throughout the high-temperature Sherrington–Kirkpatrick phase",
+"titlePlain": "Cutoff throughout the high-temperature Sherrington–Kirkpatrick phase",
+"date": "2026-09-24"
+},
+{
+"family": "227",
+"title": "Critical slowing down in the Sherrington–Kirkpatrick model",
+"titlePlain": "Critical slowing down in the Sherrington–Kirkpatrick model",
+"date": "2026-09-24"
+},
+{
+"family": "227",
+"title": "Stretched-exponential barriers for typical SK initial states",
+"titlePlain": "Stretched-exponential barriers for typical SK initial states",
+"date": "2026-09-24"
+},
+{
+"family": "227",
+"title": "A typical-start upper bound for low-temperature SK Glauber dynamics",
+"titlePlain": "A typical-start upper bound for low-temperature SK Glauber dynamics",
+"date": "2026-09-24"
+},
+{
+"family": "227",
+"title": "Critical mixing in the Sherrington–Kirkpatrick model",
+"titlePlain": "Critical mixing in the Sherrington–Kirkpatrick model",
+"date": "2026-09-25"
+},
+{
+"family": "228",
+"title": "A continuum temperature singularity for a radial pair potential",
+"titlePlain": "A continuum temperature singularity for a radial pair potential",
+"date": "2026-09-24"
+},
+{
+"family": "228",
+"title": "A radial continuum phase transition with algebraic decay",
+"titlePlain": "A radial continuum phase transition with algebraic decay",
+"date": "2026-09-24"
+},
+{
+"family": "229",
+"title": "The Reconstruction Threshold for the Ferromagnetic Four-State Potts Model",
+"titlePlain": "The Reconstruction Threshold for the Ferromagnetic Four-State Potts Model",
+"date": "2026-10-05"
+},
+{
+"family": "229",
+"title": "A Capacity Criterion for Four-State Potts Reconstruction on Trees",
+"titlePlain": "A Capacity Criterion for Four-State Potts Reconstruction on Trees",
+"date": "2026-10-05"
+},
+{
+"family": "229",
+"title": "The exact reconstruction threshold for the three-state symmetric channel",
+"titlePlain": "The exact reconstruction threshold for the three-state symmetric channel",
+"date": "2026-09-25"
+},
+{
+"family": "230",
+"title": "An exact Hausdorff gauge for SLE",
+"titlePlain": "An exact Hausdorff gauge for SLE",
+"date": "2026-09-25"
+},
+{
+"family": "230",
+"title": "An explicit exact Hausdorff gauge for SLE",
+"titlePlain": "An explicit exact Hausdorff gauge for SLE",
+"date": "2026-09-26"
+},
+{
+"family": "231",
+"title": "The free uniform spanning forest is a factor of IID",
+"titlePlain": "The free uniform spanning forest is a factor of IID",
+"date": "2026-09-25"
+},
+{
+"family": "232",
+"title": "Gaussian free-field limits of weighted integer Lipschitz heights",
+"titlePlain": "Gaussian free-field limits of weighted integer Lipschitz heights",
+"date": "2026-10-06"
+},
+{
+"family": "232",
+"title": "The Gaussian free field limit of integer Lipschitz heights with two-arc boundary data",
+"titlePlain": "The Gaussian free field limit of integer Lipschitz heights with two-arc boundary data",
+"date": "2026-10-06"
+},
+{
+"family": "232",
+"title": "Uniform real Lipschitz surfaces on the triangular lattice",
+"titlePlain": "Uniform real Lipschitz surfaces on the triangular lattice",
+"date": "2026-10-06"
+},
+{
+"family": "233",
+"title": "The joint scaling limit of critical Ashkin-Teller currents",
+"titlePlain": "The joint scaling limit of critical Ashkin-Teller currents",
+"date": "2026-10-06"
+},
+{
+"family": "234",
+"title": "All-temperature pressure for orthogonally invariant Ising spin glasses",
+"titlePlain": "All-temperature pressure for orthogonally invariant Ising spin glasses",
+"date": "2026-09-25"
+},
+{
+"family": "235",
+"title": "A Limiting Satisfiability Threshold for Every Fixed Clause Size",
+"titlePlain": "A Limiting Satisfiability Threshold for Every Fixed Clause Size",
+"date": "2026-09-25"
+},
+{
+"family": "235",
+"title": "Linear Variance of the Random 3-SAT Hitting Time",
+"titlePlain": "Linear Variance of the Random 3-SAT Hitting Time",
+"date": "2026-10-05"
+},
+{
+"family": "235",
+"title": "Variance of the Random k-SAT Hitting Time",
+"titlePlain": "Variance of the Random k-SAT Hitting Time",
+"date": "2026-09-27"
+},
+{
+"family": "235",
+"title": "Computing the Random 3-SAT Threshold",
+"titlePlain": "Computing the Random 3-SAT Threshold",
+"date": "2026-09-27"
+},
+{
+"family": "236",
+"title": "The sharp factor-of-IID threshold for the free Ising model on regular trees",
+"titlePlain": "The sharp factor-of-IID threshold for the free Ising model on regular trees",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Radial transfer estimates and polygon length laws for honeycomb walks",
+"titlePlain": "Radial transfer estimates and polygon length laws for honeycomb walks",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Critical honeycomb chords with prescribed boundary endpoints",
+"titlePlain": "Critical honeycomb chords with prescribed boundary endpoints",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Cylinder loop weights and planar nesting",
+"titlePlain": "Cylinder loop weights and planar nesting",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Mass and covering exponents for fixed-length honeycomb walks",
+"titlePlain": "Mass and covering exponents for fixed-length honeycomb walks",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Signed cylinder propagation and marked polygons on the honeycomb lattice",
+"titlePlain": "Signed cylinder propagation and marked polygons on the honeycomb lattice",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Cylinder amplitudes and logarithmic bridge-length windows on the honeycomb lattice",
+"titlePlain": "Cylinder amplitudes and logarithmic bridge-length windows on the honeycomb lattice",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Marked polygon correlations and one-arc bounds",
+"titlePlain": "Marked polygon correlations and one-arc bounds",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Disk transfer representations and confined bridge mass",
+"titlePlain": "Disk transfer representations and confined bridge mass",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Polynomial vacuum representations and bridge mass for honeycomb walks",
+"titlePlain": "Polynomial vacuum representations and bridge mass for honeycomb walks",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Renewal and changes of law for critical honeycomb walks",
+"titlePlain": "Renewal and changes of law for critical honeycomb walks",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Critical strip-crossing mass on the honeycomb lattice",
+"titlePlain": "Critical strip-crossing mass on the honeycomb lattice",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Uniform marked-polygon estimates and sharp finite bridge moments",
+"titlePlain": "Uniform marked-polygon estimates and sharp finite bridge moments",
+"date": "2026-09-26"
+},
+{
+"family": "237",
+"title": "Cap-selected amplitudes and triangle chords for honeycomb walks",
+"titlePlain": "Cap-selected amplitudes and triangle chords for honeycomb walks",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Optimal-order mixing of the Thorp shuffle",
+"titlePlain": "Optimal-order mixing of the Thorp shuffle",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Random coordinate frames and partial permutation laws",
+"titlePlain": "Random coordinate frames and partial permutation laws",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "From partial permutation information to Fourier bounds",
+"titlePlain": "From partial permutation information to Fourier bounds",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Conditional information under deterministic coordinate sweeps",
+"titlePlain": "Conditional information under deterministic coordinate sweeps",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Conditional permutations in a revealed switching environment",
+"titlePlain": "Conditional permutations in a revealed switching environment",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Routing densities and representation contraction for Thorp sweeps",
+"titlePlain": "Routing densities and representation contraction for Thorp sweeps",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Row–column symmetry and contraction of coordinate sweeps",
+"titlePlain": "Row–column symmetry and contraction of coordinate sweeps",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Random-subspace tests and trace smoothing for coordinate sweeps",
+"titlePlain": "Random-subspace tests and trace smoothing for coordinate sweeps",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Compatibility entropy and the spectrum of a Thorp sweep",
+"titlePlain": "Compatibility entropy and the spectrum of a Thorp sweep",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Signed tensor densities and diagram budgets for the Thorp shuffle",
+"titlePlain": "Signed tensor densities and diagram budgets for the Thorp shuffle",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "Conditional coordinate sweeps and analytic transfer",
+"titlePlain": "Conditional coordinate sweeps and analytic transfer",
+"date": "2026-09-26"
+},
+{
+"family": "238",
+"title": "A strict four-row permanent inequality and permutation moments",
+"titlePlain": "A strict four-row permanent inequality and permutation moments",
+"date": "2026-09-26"
+},
+{
+"family": "239",
+"title": "The sharp exponential rate of singularity for symmetric Bernoulli matrices",
+"titlePlain": "The sharp exponential rate of singularity for symmetric Bernoulli matrices",
+"date": "2026-10-03"
+},
+{
+"family": "239",
+"title": "The sharp singularity rate for biased symmetric sign matrices",
+"titlePlain": "The sharp singularity rate for biased symmetric sign matrices",
+"date": "2026-10-04"
+},
+{
+"family": "240",
+"title": "A CH obstruction to a prescribed categoricity threshold",
+"titlePlain": "A CH obstruction to a prescribed categoricity threshold",
+"date": "2026-09-24"
+},
+{
+"family": "240",
+"title": "Eventual categoricity for abstract elementary classes",
+"titlePlain": "Eventual categoricity for abstract elementary classes",
+"date": "2026-09-24"
+},
+{
+"family": "241",
+"title": "Rigidity of the Turing degrees",
+"titlePlain": "Rigidity of the Turing degrees",
+"date": "2026-09-24"
+},
+{
+"family": "242",
+"title": "Single-fold Diophantine representations",
+"titlePlain": "Single-fold Diophantine representations",
+"date": "2026-09-24"
+},
+{
+"family": "243",
+"title": "Choiceless polynomial time with counting does not capture polynomial time",
+"titlePlain": "Choiceless polynomial time with counting does not capture polynomial time",
+"date": "2026-09-23"
+},
+{
+"family": "243",
+"title": "Witnessed symmetric choice is strictly stronger than choiceless polynomial time with counting",
+"titlePlain": "Witnessed symmetric choice is strictly stronger than choiceless polynomial time with counting",
+"date": "2026-09-24"
+},
+{
+"family": "244",
+"title": "The Partition Principle does not imply Choice",
+"titlePlain": "The Partition Principle does not imply Choice",
+"date": "2026-09-24"
+},
+{
+"family": "245",
+"title": "Weak and strong normalization in pure type systems",
+"titlePlain": "Weak and strong normalization in pure type systems",
+"date": "2026-09-25"
+},
+{
+"family": "246",
+"title": "A Modulus Proof of Cannon’s Conjecture",
+"titlePlain": "A Modulus Proof of Cannon’s Conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "247",
+"title": "An infinite finitely presented residually finite 2-group",
+"titlePlain": "An infinite finitely presented residually finite 2-group",
+"date": "2026-10-05"
+},
+{
+"family": "247",
+"title": "An infinite finitely presented periodic group",
+"titlePlain": "An infinite finitely presented periodic group",
+"date": "2026-09-23"
+},
+{
+"family": "248",
+"title": "Thompson's group F is nonamenable",
+"titlePlain": "Thompson's group F is nonamenable",
+"date": "2026-09-23"
+},
+{
+"family": "249",
+"title": "A finitely generated counterexample to the Eilenberg–Ganea conjecture",
+"titlePlain": "A finitely generated counterexample to the Eilenberg–Ganea conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "250",
+"title": "Finite algebraic envelopes and the Boone–Higman conjecture",
+"titlePlain": "Finite algebraic envelopes and the Boone–Higman conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "250",
+"title": "Simple F∞ overgroups of groups with decidable word problem",
+"titlePlain": "Simple F∞ overgroups of groups with decidable word problem",
+"date": "2026-09-23"
+},
+{
+"family": "250",
+"title": "A universal group of type F∞",
+"titlePlain": "A universal group of type F∞",
+"date": "2026-09-23"
+},
+{
+"family": "251",
+"title": "Unitarizability implies amenability for discrete groups",
+"titlePlain": "Unitarizability implies amenability for discrete groups",
+"date": "2026-09-23"
+},
+{
+"family": "251",
+"title": "Strong Ulam Stability Characterizes Amenability",
+"titlePlain": "Strong Ulam Stability Characterizes Amenability",
+"date": "2026-10-05"
+},
+{
+"family": "252",
+"title": "A torsion-free hyperbolic group that is not residually finite",
+"titlePlain": "A torsion-free hyperbolic group that is not residually finite",
+"date": "2026-09-23"
+},
+{
+"family": "253",
+"title": "An infinite finitely presented simple amenable group",
+"titlePlain": "An infinite finitely presented simple amenable group",
+"date": "2026-09-23"
+},
+{
+"family": "254",
+"title": "Harmonic heights and the Artin K(pi,1) conjecture",
+"titlePlain": "Harmonic heights and the Artin K(pi,1) conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "254",
+"title": "An Artin group with no geometric CAT(0) action",
+"titlePlain": "An Artin group with no geometric CAT(0) action",
+"date": "2026-09-23"
+},
+{
+"family": "254",
+"title": "Parabolic intersections in Artin groups",
+"titlePlain": "Parabolic intersections in Artin groups",
+"date": "2026-09-23"
+},
+{
+"family": "255",
+"title": "Quasi-isometric recognition of virtually polycyclic groups",
+"titlePlain": "Quasi-isometric recognition of virtually polycyclic groups",
+"date": "2026-09-24"
+},
+{
+"family": "256",
+"title": "Nonsingular systems of equations over arbitrary groups",
+"titlePlain": "Nonsingular systems of equations over arbitrary groups",
+"date": "2026-10-05"
+},
+{
+"family": "256",
+"title": "The Kervaire theorem for groups",
+"titlePlain": "The Kervaire theorem for groups",
+"date": "2026-09-24"
+},
+{
+"family": "257",
+"title": "A hyperbolic group with no geometric CAT(0) action",
+"titlePlain": "A hyperbolic group with no geometric CAT(0) action",
+"date": "2026-09-25"
+},
+{
+"family": "258",
+"title": "Baumslag-Solitar-free one-relator groups are hyperbolic",
+"titlePlain": "Baumslag-Solitar-free one-relator groups are hyperbolic",
+"date": "2026-09-25"
+},
+{
+"family": "258",
+"title": "Virtual compact specialness of hyperbolic one-relator groups",
+"titlePlain": "Virtual compact specialness of hyperbolic one-relator groups",
+"date": "2026-09-25"
+},
+{
+"family": "259",
+"title": "A group without fixed price",
+"titlePlain": "A group without fixed price",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "The spacetime Penrose inequality with charge and original-data rigidity",
+"titlePlain": "The spacetime Penrose inequality with charge and original-data rigidity",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "A Charged Reduction of the Spacetime Penrose Inequality in Spatial Dimensions at Least Four",
+"titlePlain": "A Charged Reduction of the Spacetime Penrose Inequality in Spatial Dimensions at Least Four",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "Spacetime Penrose inequalities: enclosing area, charge, and rigidity",
+"titlePlain": "Spacetime Penrose inequalities: enclosing area, charge, and rigidity",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "The Kerr–Newman Penrose Inequality for Axisymmetric Electrovacuum Exteriors",
+"titlePlain": "The Kerr–Newman Penrose Inequality for Axisymmetric Electrovacuum Exteriors",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "Electromagnetic tails and the Kerr–Newman Penrose inequality",
+"titlePlain": "Electromagnetic tails and the Kerr–Newman Penrose inequality",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "The nonmaximal anti-de Sitter Penrose Inequality and original-data rigidity",
+"titlePlain": "The nonmaximal anti-de Sitter Penrose Inequality and original-data rigidity",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "The Penrose inequality for maximal asymptotically hyperbolic initial data",
+"titlePlain": "The Penrose inequality for maximal asymptotically hyperbolic initial data",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "A local Penrose inequality for conformal perturbations of Schwarzschild–anti-de Sitter data",
+"titlePlain": "A local Penrose inequality for conformal perturbations of Schwarzschild–anti-de Sitter data",
+"date": "2026-10-05"
+},
+{
+"family": "260",
+"title": "The spacetime Penrose inequality and enclosing area",
+"titlePlain": "The spacetime Penrose inequality and enclosing area",
+"date": "2026-09-27"
+},
+{
+"family": "260",
+"title": "Conformal flow and the Riemannian Penrose inequality with minimizing frontiers",
+"titlePlain": "Conformal flow and the Riemannian Penrose inequality with minimizing frontiers",
+"date": "2026-09-27"
+},
+{
+"family": "260",
+"title": "Equality and rigidity in the spacetime Penrose inequality",
+"titlePlain": "Equality and rigidity in the spacetime Penrose inequality",
+"date": "2026-09-27"
+},
+{
+"family": "260",
+"title": "Boundary graph deformations for the spacetime Penrose inequality",
+"titlePlain": "Boundary graph deformations for the spacetime Penrose inequality",
+"date": "2026-09-27"
+},
+{
+"family": "260",
+"title": "Area-controlled end replacement and the Bondi Penrose inequality in the CKS class",
+"titlePlain": "Area-controlled end replacement and the Bondi Penrose inequality in the CKS class",
+"date": "2026-09-27"
+},
+{
+"family": "261",
+"title": "Absolutely Continuous Spectrum for Weak-Disorder Anderson Models in Dimensions at Least Three",
+"titlePlain": "Absolutely Continuous Spectrum for Weak-Disorder Anderson Models in Dimensions at Least Three",
+"date": "2026-09-23"
+},
+{
+"family": "261",
+"title": "Pure-Point Spectrum for the Two-Dimensional Anderson Model at Every Positive Disorder",
+"titlePlain": "Pure-Point Spectrum for the Two-Dimensional Anderson Model at Every Positive Disorder",
+"date": "2026-09-23"
+},
+{
+"family": "262",
+"title": "Equality cases in the sharp one-dimensional matrix Lieb–Thirring inequality",
+"titlePlain": "Equality cases in the sharp one-dimensional matrix Lieb–Thirring inequality",
+"date": "2026-10-05"
+},
+{
+"family": "262",
+"title": "Sharp one-dimensional Lieb–Thirring inequalities for matrix potentials",
+"titlePlain": "Sharp one-dimensional Lieb–Thirring inequalities for matrix potentials",
+"date": "2026-10-05"
+},
+{
+"family": "262",
+"title": "Sharp one-dimensional Lieb–Thirring constants",
+"titlePlain": "Sharp one-dimensional Lieb–Thirring constants",
+"date": "2026-09-23"
+},
+{
+"family": "263",
+"title": "Uniform excess charge for Coulomb molecules and the outer radius of neutral atoms",
+"titlePlain": "Uniform excess charge for Coulomb molecules and the outer radius of neutral atoms",
+"date": "2026-09-24"
+},
+{
+"family": "263",
+"title": "Generalized ionization energies for full Coulomb atoms",
+"titlePlain": "Generalized ionization energies for full Coulomb atoms",
+"date": "2026-09-24"
+},
+{
+"family": "263",
+"title": "Generalized outer-electron radii of neutral Coulomb atoms",
+"titlePlain": "Generalized outer-electron radii of neutral Coulomb atoms",
+"date": "2026-09-24"
+},
+{
+"family": "264",
+"title": "Generic Future Inextendibility with Square-Integrable Connection Near a Fixed Kerr Spacetime",
+"titlePlain": "Generic Future Inextendibility with Square-Integrable Connection Near a Fixed Kerr Spacetime",
+"date": "2026-09-23"
+},
+{
+"family": "264",
+"title": "Generic C1 Future Inextendibility Near Rotating Subextremal Kerr Spacetimes",
+"titlePlain": "Generic C1 Future Inextendibility Near Rotating Subextremal Kerr Spacetimes",
+"date": "2026-09-23"
+},
+{
+"family": "264",
+"title": "Quantitative Near-Kerr Evolution and Generic C2 Future Inextendibility",
+"titlePlain": "Quantitative Near-Kerr Evolution and Generic C2 Future Inextendibility",
+"date": "2026-09-23"
+},
+{
+"family": "265",
+"title": "A two-dimensional area law from a global spectral gap",
+"titlePlain": "A two-dimensional area law from a global spectral gap",
+"date": "2026-09-24"
+},
+{
+"family": "265",
+"title": "Polynomial PEPS approximation of gapped square-grid ground states",
+"titlePlain": "Polynomial PEPS approximation of gapped square-grid ground states",
+"date": "2026-09-24"
+},
+{
+"family": "266",
+"title": "The maximum number of mutually unbiased bases in dimension six",
+"titlePlain": "The maximum number of mutually unbiased bases in dimension six",
+"date": "2026-09-24"
+},
+{
+"family": "266",
+"title": "Exact Fourier certificates for complex Hadamard matrices of order six",
+"titlePlain": "Exact Fourier certificates for complex Hadamard matrices of order six",
+"date": "2026-09-24"
+},
+{
+"family": "267",
+"title": "Bose–Einstein condensation at positive temperature in the dilute hard-sphere gas",
+"titlePlain": "Bose–Einstein condensation at positive temperature in the dilute hard-sphere gas",
+"date": "2026-10-05"
+},
+{
+"family": "267",
+"title": "Quantum Depletion and Momentum Distribution in the Dilute Hard-Sphere Bose Gas",
+"titlePlain": "Quantum Depletion and Momentum Distribution in the Dilute Hard-Sphere Bose Gas",
+"date": "2026-10-05"
+},
+{
+"family": "267",
+"title": "Quantum Depletion for Fixed Bounded Repulsive Potentials",
+"titlePlain": "Quantum Depletion for Fixed Bounded Repulsive Potentials",
+"date": "2026-10-05"
+},
+{
+"family": "267",
+"title": "A density-uniform condensate bound for dilute Bose gases",
+"titlePlain": "A density-uniform condensate bound for dilute Bose gases",
+"date": "2026-09-27"
+},
+{
+"family": "267",
+"title": "Ground-state condensation in the dilute hard-sphere gas",
+"titlePlain": "Ground-state condensation in the dilute hard-sphere gas",
+"date": "2026-09-24"
+},
+{
+"family": "268",
+"title": "The periodic spin-one Haldane gap",
+"titlePlain": "The periodic spin-one Haldane gap",
+"date": "2026-09-24"
+},
+{
+"family": "268",
+"title": "A boundary-field gap for the spin-one Heisenberg chain",
+"titlePlain": "A boundary-field gap for the spin-one Heisenberg chain",
+"date": "2026-09-24"
+},
+{
+"family": "269",
+"title": "Uniform Stability of the Spherical Laughlin Gap",
+"titlePlain": "Uniform Stability of the Spherical Laughlin Gap",
+"date": "2026-10-05"
+},
+{
+"family": "269",
+"title": "A Fock-space inequality and the Laughlin spectral gap",
+"titlePlain": "A Fock-space inequality and the Laughlin spectral gap",
+"date": "2026-09-24"
+},
+{
+"family": "270",
+"title": "The unique threshold bound state of the SU(N) BFSS model",
+"titlePlain": "The unique threshold bound state of the SU(N) BFSS model",
+"date": "2026-09-24"
+},
+{
+"family": "270",
+"title": "Positive eigenvalues of the relative SU(2) BFSS Hamiltonian",
+"titlePlain": "Positive eigenvalues of the relative SU(2) BFSS Hamiltonian",
+"date": "2026-10-05"
+},
+{
+"family": "271",
+"title": "Bloch's Law for Finite-Range Heisenberg Ferromagnets in Three Dimensions",
+"titlePlain": "Bloch's Law for Finite-Range Heisenberg Ferromagnets in Three Dimensions",
+"date": "2026-10-05"
+},
+{
+"family": "271",
+"title": "The first lattice correction to Bloch's law",
+"titlePlain": "The first lattice correction to Bloch's law",
+"date": "2026-10-05"
+},
+{
+"family": "271",
+"title": "The spherical magnetization law for the three-dimensional quantum Heisenberg ferromagnet",
+"titlePlain": "The spherical magnetization law for the three-dimensional quantum Heisenberg ferromagnet",
+"date": "2026-10-05"
+},
+{
+"family": "271",
+"title": "Spontaneous magnetization in the quantum Heisenberg ferromagnet",
+"titlePlain": "Spontaneous magnetization in the quantum Heisenberg ferromagnet",
+"date": "2026-09-24"
+},
+{
+"family": "272",
+"title": "Entanglement with zero distillable secret key in local dimension ten",
+"titlePlain": "Entanglement with zero distillable secret key in local dimension ten",
+"date": "2026-09-27"
+},
+{
+"family": "273",
+"title": "The entropy photon-number inequality",
+"titlePlain": "The entropy photon-number inequality",
+"date": "2026-09-24"
+},
+{
+"family": "274",
+"title": "Product-projection localization and the QAC0 parity lower bound",
+"titlePlain": "Product-projection localization and the QAC0 parity lower bound",
+"date": "2026-09-24"
+},
+{
+"family": "274",
+"title": "Regular trajectories, pruning and quantum parity",
+"titlePlain": "Regular trajectories, pruning and quantum parity",
+"date": "2026-09-24"
+},
+{
+"family": "275",
+"title": "Continuum Coulomb hardness with binary nuclear charges",
+"titlePlain": "Continuum Coulomb hardness with binary nuclear charges",
+"date": "2026-09-24"
+},
+{
+"family": "275",
+"title": "QMA-hardness of continuum Coulomb energy with unit nuclear charges",
+"titlePlain": "QMA-hardness of continuum Coulomb energy with unit nuclear charges",
+"date": "2026-09-24"
+},
+{
+"family": "276",
+"title": "Classical capacity and entropy inequalities for generalized amplitude damping",
+"titlePlain": "Classical capacity and entropy inequalities for generalized amplitude damping",
+"date": "2026-09-24"
+},
+{
+"family": "277",
+"title": "Threshold parallel repetition for finite-dimensional entangled games",
+"titlePlain": "Threshold parallel repetition for finite-dimensional entangled games",
+"date": "2026-09-25"
+},
+{
+"family": "278",
+"title": "A Coulomb ground-state density without Kohn-Sham ensemble representation",
+"titlePlain": "A Coulomb ground-state density without Kohn-Sham ensemble representation",
+"date": "2026-09-25"
+},
+{
+"family": "279",
+"title": "Exact quantum factoring over a fixed finite gate set",
+"titlePlain": "Exact quantum factoring over a fixed finite gate set",
+"date": "2026-09-25"
+},
+{
+"family": "280",
+"title": "Strongly rational unitary vertex operator algebras and conformal nets",
+"titlePlain": "Strongly rational unitary vertex operator algebras and conformal nets",
+"date": "2026-09-25"
+},
+{
+"family": "281",
+"title": "QAOA attains the SK ground-state energy in the thermodynamic-first limit",
+"titlePlain": "QAOA attains the SK ground-state energy in the thermodynamic-first limit",
+"date": "2026-09-25"
+},
+{
+"family": "281",
+"title": "Full support of the zero-temperature Sherrington-Kirkpatrick order parameter",
+"titlePlain": "Full support of the zero-temperature Sherrington-Kirkpatrick order parameter",
+"date": "2026-09-27"
+},
+{
+"family": "282",
+"title": "Scale and conformal symmetry in four-dimensional operational quantum field theory",
+"titlePlain": "Scale and conformal symmetry in four-dimensional operational quantum field theory",
+"date": "2026-09-26"
+},
+{
+"family": "283",
+"title": "Polynomial-Time Unitary Synthesis from a Boolean Oracle",
+"titlePlain": "Polynomial-Time Unitary Synthesis from a Boolean Oracle",
+"date": "2026-10-05"
+},
+{
+"family": "284",
+"title": "A Nearly Quartic Separation Between Randomized and Quantum Query Complexity",
+"titlePlain": "A Nearly Quartic Separation Between Randomized and Quantum Query Complexity",
+"date": "2026-10-05"
+},
+{
+"family": "285",
+"title": "A torsion-free counterexample to reduced Baum–Connes injectivity",
+"titlePlain": "A torsion-free counterexample to reduced Baum–Connes injectivity",
+"date": "2026-09-23"
+},
+{
+"family": "285",
+"title": "A torsion-free counterexample to the Kadison–Kaplansky projection conjecture",
+"titlePlain": "A torsion-free counterexample to the Kadison–Kaplansky projection conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "285",
+"title": "An irrational-trace counterexample to reduced Baum–Connes",
+"titlePlain": "An irrational-trace counterexample to reduced Baum–Connes",
+"date": "2026-09-23"
+},
+{
+"family": "286",
+"title": "Arithmeticity of twisted finite correspondences for lattices over local fields",
+"titlePlain": "Arithmeticity of twisted finite correspondences for lattices over local fields",
+"date": "2026-09-23"
+},
+{
+"family": "286",
+"title": "The arithmetic category and stable recovery of lattice factors",
+"titlePlain": "The arithmetic category and stable recovery of lattice factors",
+"date": "2026-09-23"
+},
+{
+"family": "287",
+"title": "An isomorphism of the free group factors",
+"titlePlain": "An isomorphism of the free group factors",
+"date": "2026-09-23"
+},
+{
+"family": "288",
+"title": "Kadison's similarity theorem through uniform derivation estimates",
+"titlePlain": "Kadison's similarity theorem through uniform derivation estimates",
+"date": "2026-09-23"
+},
+{
+"family": "289",
+"title": "Universal strong Kadison–Kastler stability",
+"titlePlain": "Universal strong Kadison–Kastler stability",
+"date": "2026-09-23"
+},
+{
+"family": "289",
+"title": "Near Inclusions of von Neumann Algebras Without Small Spatial Embeddings",
+"titlePlain": "Near Inclusions of von Neumann Algebras Without Small Spatial Embeddings",
+"date": "2026-10-05"
+},
+{
+"family": "289",
+"title": "Close Separable C*-Algebras Without Spatial Conjugacy",
+"titlePlain": "Close Separable C*-Algebras Without Spatial Conjugacy",
+"date": "2026-10-05"
+},
+{
+"family": "290",
+"title": "Expected amenable subalgebras preserving core commutants",
+"titlePlain": "Expected amenable subalgebras preserving core commutants",
+"date": "2026-09-23"
+},
+{
+"family": "290",
+"title": "Bounded recovery for modular spectral averages",
+"titlePlain": "Bounded recovery for modular spectral averages",
+"date": "2026-09-23"
+},
+{
+"family": "291",
+"title": "Equivariant Jiang–Su Stability for Amenable Actions in the Unital Stably Finite Case",
+"titlePlain": "Equivariant Jiang–Su Stability for Amenable Actions in the Unital Stably Finite Case",
+"date": "2026-10-05"
+},
+{
+"family": "291",
+"title": "Cuntz comparison and Jiang–Su absorption",
+"titlePlain": "Cuntz comparison and Jiang–Su absorption",
+"date": "2026-09-23"
+},
+{
+"family": "291",
+"title": "Nuclear dimension and Jiang–Su stability without elementary subquotients",
+"titlePlain": "Nuclear dimension and Jiang–Su stability without elementary subquotients",
+"date": "2026-09-23"
+},
+{
+"family": "291",
+"title": "Tracial projection methods and uniform property Gamma",
+"titlePlain": "Tracial projection methods and uniform property Gamma",
+"date": "2026-09-23"
+},
+{
+"family": "292",
+"title": "An explicit obstruction to nuclear norm-ultrapower embeddings",
+"titlePlain": "An explicit obstruction to nuclear norm-ultrapower embeddings",
+"date": "2026-09-23"
+},
+{
+"family": "293",
+"title": "Invariant-projection counterexamples for every irrational rotation",
+"titlePlain": "Invariant-projection counterexamples for every irrational rotation",
+"date": "2026-09-27"
+},
+{
+"family": "293",
+"title": "Backward intertwiners and a transitive commutant",
+"titlePlain": "Backward intertwiners and a transitive commutant",
+"date": "2026-09-27"
+},
+{
+"family": "294",
+"title": "A counterexample to Kaplansky's quasitrace conjecture and failure of tensor-product stable finiteness",
+"titlePlain": "A counterexample to Kaplansky's quasitrace conjecture and failure of tensor-product stable finiteness",
+"date": "2026-09-23"
+},
+{
+"family": "295",
+"title": "Vanishing of higher bounded Hochschild cohomology",
+"titlePlain": "Vanishing of higher bounded Hochschild cohomology",
+"date": "2026-09-23"
+},
+{
+"family": "296",
+"title": "Relative generation and the generator problem for finite factors",
+"titlePlain": "Relative generation and the generator problem for finite factors",
+"date": "2026-09-23"
+},
+{
+"family": "297",
+"title": "A counterexample to Naimark's problem in ZFC",
+"titlePlain": "A counterexample to Naimark's problem in ZFC",
+"date": "2026-09-24"
+},
+{
+"family": "298",
+"title": "A finite-entropy separation of microstates and nonmicrostates free entropy",
+"titlePlain": "A finite-entropy separation of microstates and nonmicrostates free entropy",
+"date": "2026-09-25"
+},
+{
+"family": "299",
+"title": "The Kirchberg–Rørdam character criterion",
+"titlePlain": "The Kirchberg–Rørdam character criterion",
+"date": "2026-09-25"
+},
+{
+"family": "300",
+"title": "Approximation Paving over Arbitrary Maximal Abelian Subalgebras",
+"titlePlain": "Approximation Paving over Arbitrary Maximal Abelian Subalgebras",
+"date": "2026-09-25"
+},
+{
+"family": "300",
+"title": "Quadratic Strong-Operator Paving over Arbitrary Maximal Abelian Subalgebras",
+"titlePlain": "Quadratic Strong-Operator Paving over Arbitrary Maximal Abelian Subalgebras",
+"date": "2026-09-25"
+},
+{
+"family": "301",
+"title": "The trace cone classifies Razak–Jacelon stabilizations",
+"titlePlain": "The trace cone classifies Razak–Jacelon stabilizations",
+"date": "2026-09-25"
+},
+{
+"family": "302",
+"title": "Filtered products and boundary-preserving compression in complex cobordism",
+"titlePlain": "Filtered products and boundary-preserving compression in complex cobordism",
+"date": "2026-09-25"
+},
+{
+"family": "302",
+"title": "Radius of comparison equals half the mean dimension",
+"titlePlain": "Radius of comparison equals half the mean dimension",
+"date": "2026-09-25"
+},
+{
+"family": "303",
+"title": "Weak pure infiniteness and O-infinity absorption",
+"titlePlain": "Weak pure infiniteness and O-infinity absorption",
+"date": "2026-09-25"
+},
+{
+"family": "304",
+"title": "The Hilbert–Smith conjecture in every finite dimension",
+"titlePlain": "The Hilbert–Smith conjecture in every finite dimension",
+"date": "2026-09-23"
+},
+{
+"family": "305",
+"title": "A boundary-only obstruction to four-dimensional disk embedding",
+"titlePlain": "A boundary-only obstruction to four-dimensional disk embedding",
+"date": "2026-09-24"
+},
+{
+"family": "305",
+"title": "A marked tensor obstruction to four-dimensional disk embedding",
+"titlePlain": "A marked tensor obstruction to four-dimensional disk embedding",
+"date": "2026-09-24"
+},
+{
+"family": "305",
+"title": "A PD4 group without an aspherical manifold model",
+"titlePlain": "A PD4 group without an aspherical manifold model",
+"date": "2026-09-24"
+},
+{
+"family": "306",
+"title": "Purely cosmetic surgery on knots in the three-sphere",
+"titlePlain": "Purely cosmetic surgery on knots in the three-sphere",
+"date": "2026-09-23"
+},
+{
+"family": "307",
+"title": "Failure of rational injectivity for maximal coarse assembly",
+"titlePlain": "Failure of rational injectivity for maximal coarse assembly",
+"date": "2026-10-05"
+},
+{
+"family": "307",
+"title": "A counterexample to the coarse Novikov conjecture",
+"titlePlain": "A counterexample to the coarse Novikov conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "308",
+"title": "Finite Smith–Toda Complexes at Varying Primes",
+"titlePlain": "Finite Smith–Toda Complexes at Varying Primes",
+"date": "2026-09-23"
+},
+{
+"family": "308",
+"title": "A finite Smith–Toda complex V(4) at the prime 1009",
+"titlePlain": "A finite Smith–Toda complex V(4) at the prime 1009",
+"date": "2026-09-23"
+},
+{
+"family": "309",
+"title": "The Kervaire invariant problem at the prime three",
+"titlePlain": "The Kervaire invariant problem at the prime three",
+"date": "2026-09-24"
+},
+{
+"family": "310",
+"title": "Rational homology and Quillen's conjecture",
+"titlePlain": "Rational homology and Quillen's conjecture",
+"date": "2026-09-24"
+},
+{
+"family": "311",
+"title": "Stabilizer orbits and thick tensor ideals of dualizable K(n)-local spectra",
+"titlePlain": "Stabilizer orbits and thick tensor ideals of dualizable K(n)-local spectra",
+"date": "2026-09-24"
+},
+{
+"family": "312",
+"title": "The Grothendieck homotopy hypothesis via elementary expansions",
+"titlePlain": "The Grothendieck homotopy hypothesis via elementary expansions",
+"date": "2026-09-24"
+},
+{
+"family": "313",
+"title": "Finite generation for the K(n)-local sphere",
+"titlePlain": "Finite generation for the K(n)-local sphere",
+"date": "2026-09-24"
+},
+{
+"family": "314",
+"title": "Cyclic length and chromatic fixed-point loss",
+"titlePlain": "Cyclic length and chromatic fixed-point loss",
+"date": "2026-09-24"
+},
+{
+"family": "315",
+"title": "The Singer conjecture in dimension four",
+"titlePlain": "The Singer conjecture in dimension four",
+"date": "2026-09-25"
+},
+{
+"family": "316",
+"title": "The Stable Hurewicz Image of the Sphere at Two",
+"titlePlain": "The Stable Hurewicz Image of the Sphere at Two",
+"date": "2026-09-25"
+},
+{
+"family": "317",
+"title": "Thomason Model Structures in Every Strict Higher Dimension",
+"titlePlain": "Thomason Model Structures in Every Strict Higher Dimension",
+"date": "2026-09-25"
+},
+{
+"family": "318",
+"title": "Filtered chromatic splitting at generic primes",
+"titlePlain": "Filtered chromatic splitting at generic primes",
+"date": "2026-09-25"
+},
+{
+"family": "318",
+"title": "The height-three chromatic overlap: an explicit filtration and its attachments",
+"titlePlain": "The height-three chromatic overlap: an explicit filtration and its attachments",
+"date": "2026-09-27"
+},
+{
+"family": "318",
+"title": "A rational obstruction to strong chromatic splitting at height three",
+"titlePlain": "A rational obstruction to strong chromatic splitting at height three",
+"date": "2026-09-25"
+},
+{
+"family": "318",
+"title": "Failure of finite assembly for a chromatic overlap at the prime three",
+"titlePlain": "Failure of finite assembly for a chromatic overlap at the prime three",
+"date": "2026-09-25"
+},
+{
+"family": "318",
+"title": "Counterexamples to weak chromatic splitting: sphere kernels and descent exponents",
+"titlePlain": "Counterexamples to weak chromatic splitting: sphere kernels and descent exponents",
+"date": "2026-09-27"
+},
+{
+"family": "319",
+"title": "Counterexamples to the Hahn-Wilson conjecture at height two",
+"titlePlain": "Counterexamples to the Hahn-Wilson conjecture at height two",
+"date": "2026-09-26"
+},
+{
+"family": "320",
+"title": "Nonhomeomorphic closed aspherical four-manifolds with the same homotopy type",
+"titlePlain": "Nonhomeomorphic closed aspherical four-manifolds with the same homotopy type",
+"date": "2026-10-04"
+},
+{
+"family": "321",
+"title": "A Counterexample to Wall's D(2) Problem",
+"titlePlain": "A Counterexample to Wall's D(2) Problem",
+"date": "2026-10-06"
+},
+{
+"family": "322",
+"title": "A positive solution to Tingley’s problem",
+"titlePlain": "A positive solution to Tingley’s problem",
+"date": "2026-09-23"
+},
+{
+"family": "323",
+"title": "Relative independence of the separable quotient problem",
+"titlePlain": "Relative independence of the separable quotient problem",
+"date": "2026-09-23"
+},
+{
+"family": "324",
+"title": "Lipschitz Equivalent Separable Banach Spaces Need Not Be Linearly Isomorphic",
+"titlePlain": "Lipschitz Equivalent Separable Banach Spaces Need Not Be Linearly Isomorphic",
+"date": "2026-09-24"
+},
+{
+"family": "324",
+"title": "Bi-Lipschitz Absorption of c0 Without a Linear Copy of c0",
+"titlePlain": "Bi-Lipschitz Absorption of c0 Without a Linear Copy of c0",
+"date": "2026-09-26"
+},
+{
+"family": "325",
+"title": "A direct proof of the complete Crouzeix inequality",
+"titlePlain": "A direct proof of the complete Crouzeix inequality",
+"date": "2026-09-26"
+},
+{
+"family": "325",
+"title": "The complete Crouzeix theorem: optimal similarity and a common positive boundary representation",
+"titlePlain": "The complete Crouzeix theorem: optimal similarity and a common positive boundary representation",
+"date": "2026-09-23"
+},
+{
+"family": "326",
+"title": "The cotype–cotype conjecture under the approximation property",
+"titlePlain": "The cotype–cotype conjecture under the approximation property",
+"date": "2026-09-23"
+},
+{
+"family": "327",
+"title": "Nontrivial Markov Type Forces Superreflexivity",
+"titlePlain": "Nontrivial Markov Type Forces Superreflexivity",
+"date": "2026-09-23"
+},
+{
+"family": "328",
+"title": "Fixed Points of Nonexpansive Maps in Reflexive Banach Spaces",
+"titlePlain": "Fixed Points of Nonexpansive Maps in Reflexive Banach Spaces",
+"date": "2026-09-24"
+},
+{
+"family": "329",
+"title": "Counterexamples to the duality conjecture for metric entropy",
+"titlePlain": "Counterexamples to the duality conjecture for metric entropy",
+"date": "2026-09-24"
+},
+{
+"family": "330",
+"title": "A uniformly discrete counterexample to bounded approximation in Lipschitz-free spaces",
+"titlePlain": "A uniformly discrete counterexample to bounded approximation in Lipschitz-free spaces",
+"date": "2026-09-26"
+},
+{
+"family": "331",
+"title": "Asymptotic midpoint uniform convexity and unbounded diamond distortion in a reflexive tree space",
+"titlePlain": "Asymptotic midpoint uniform convexity and unbounded diamond distortion in a reflexive tree space",
+"date": "2026-09-27"
+},
+{
+"family": "331",
+"title": "Midpoint lenses in segment spaces",
+"titlePlain": "Midpoint lenses in segment spaces",
+"date": "2026-09-27"
+},
+{
+"family": "331",
+"title": "Distortion of countably branching diamonds from midpoint and tree energies",
+"titlePlain": "Distortion of countably branching diamonds from midpoint and tree energies",
+"date": "2026-09-27"
+},
+{
+"family": "331",
+"title": "Exact asymptotic moduli in a Daugavet subspace of L1",
+"titlePlain": "Exact asymptotic moduli in a Daugavet subspace of L1",
+"date": "2026-09-27"
+},
+{
+"family": "331",
+"title": "Midpoint convexity from bounded tree potentials and path costs",
+"titlePlain": "Midpoint convexity from bounded tree potentials and path costs",
+"date": "2026-09-27"
+},
+{
+"family": "331",
+"title": "Independent products in real L1: asymptotic midpoint convexity without AUC renormings",
+"titlePlain": "Independent products in real L1: asymptotic midpoint convexity without AUC renormings",
+"date": "2026-09-27"
+},
+{
+"family": "331",
+"title": "Midpoint convexity from two recursive potentials",
+"titlePlain": "Midpoint convexity from two recursive potentials",
+"date": "2026-09-27"
+},
+{
+"family": "332",
+"title": "Metric Markov Cotype Two of $ℓ$_{1}",
+"titlePlain": "Metric Markov Cotype Two of ℓ_1",
+"date": "2026-10-05"
+},
+{
+"family": "333",
+"title": "Smooth isometric immersions of closed surfaces into Euclidean four-space",
+"titlePlain": "Smooth isometric immersions of closed surfaces into Euclidean four-space",
+"date": "2026-09-23"
+},
+{
+"family": "334",
+"title": "A Smooth Metric with No Local Isometric Immersion into Three-Space",
+"titlePlain": "A Smooth Metric with No Local Isometric Immersion into Three-Space",
+"date": "2026-09-24"
+},
+{
+"family": "335",
+"title": "An integral scalar curvature bound for real simplicial volume",
+"titlePlain": "An integral scalar curvature bound for real simplicial volume",
+"date": "2026-10-05"
+},
+{
+"family": "335",
+"title": "Positive scalar curvature forces rational inessentiality",
+"titlePlain": "Positive scalar curvature forces rational inessentiality",
+"date": "2026-09-23"
+},
+{
+"family": "336",
+"title": "Spectral scalar curvature and uniform Urysohn width",
+"titlePlain": "Spectral scalar curvature and uniform Urysohn width",
+"date": "2026-10-05"
+},
+{
+"family": "336",
+"title": "Spectral scalar curvature and Urysohn width in dimension three",
+"titlePlain": "Spectral scalar curvature and Urysohn width in dimension three",
+"date": "2026-10-05"
+},
+{
+"family": "336",
+"title": "Positive scalar curvature and uniform codimension-two width",
+"titlePlain": "Positive scalar curvature and uniform codimension-two width",
+"date": "2026-09-23"
+},
+{
+"family": "337",
+"title": "Generalized Cartan–Hadamard isoperimetry and Euclidean equality rigidity",
+"titlePlain": "Generalized Cartan–Hadamard isoperimetry and Euclidean equality rigidity",
+"date": "2026-09-23"
+},
+{
+"family": "337",
+"title": "Sharp integral fillings in CAT(0) spaces",
+"titlePlain": "Sharp integral fillings in CAT(0) spaces",
+"date": "2026-09-23"
+},
+{
+"family": "338",
+"title": "Uniformization of complete Kähler manifolds with positive bisectional curvature",
+"titlePlain": "Uniformization of complete Kähler manifolds with positive bisectional curvature",
+"date": "2026-09-23"
+},
+{
+"family": "339",
+"title": "Entropy equality and local symmetry in negative curvature",
+"titlePlain": "Entropy equality and local symmetry in negative curvature",
+"date": "2026-09-23"
+},
+{
+"family": "340",
+"title": "A counterexample to the nearby Lagrangian conjecture",
+"titlePlain": "A counterexample to the nearby Lagrangian conjecture",
+"date": "2026-09-23"
+},
+{
+"family": "341",
+"title": "Deforming hypersymplectic four-manifolds to hyperkähler triples",
+"titlePlain": "Deforming hypersymplectic four-manifolds to hyperkähler triples",
+"date": "2026-10-07"
+},
+{
+"family": "342",
+"title": "Taming implies compatibility on four-manifolds",
+"titlePlain": "Taming implies compatibility on four-manifolds",
+"date": "2026-10-06"
+},
+{
+"family": "343",
+"title": "Symplectic Ball Packings in Higher Dimensions",
+"titlePlain": "Symplectic Ball Packings in Higher Dimensions",
+"date": "2026-09-23"
+},
+{
+"family": "344",
+"title": "The metric Blaschke theorem",
+"titlePlain": "The metric Blaschke theorem",
+"date": "2026-09-23"
+},
+{
+"family": "345",
+"title": "Infinitely many closed geodesic images on every Riemannian sphere",
+"titlePlain": "Infinitely many closed geodesic images on every Riemannian sphere",
+"date": "2026-09-24"
+},
+{
+"family": "346",
+"title": "A Codimension-One Bound for the Singular Set of a Stationary Integral Varifold",
+"titlePlain": "A Codimension-One Bound for the Singular Set of a Stationary Integral Varifold",
+"date": "2026-10-05"
+},
+{
+"family": "346",
+"title": "Almost-everywhere regularity of stationary integral varifolds",
+"titlePlain": "Almost-everywhere regularity of stationary integral varifolds",
+"date": "2026-09-23"
+},
+{
+"family": "347",
+"title": "Hamiltonian Fixed Points Below the Stable Morse Number in Dimension Twenty-Two",
+"titlePlain": "Hamiltonian Fixed Points Below the Stable Morse Number in Dimension Twenty-Two",
+"date": "2026-10-05"
+},
+{
+"family": "347",
+"title": "Sharpness of the Cyclic Integral Floer Bound Below the Stable Morse Number",
+"titlePlain": "Sharpness of the Cyclic Integral Floer Bound Below the Stable Morse Number",
+"date": "2026-10-05"
+},
+{
+"family": "347",
+"title": "Hamiltonian Fixed Points Below the Stable Morse Number",
+"titlePlain": "Hamiltonian Fixed Points Below the Stable Morse Number",
+"date": "2026-10-05"
+},
+{
+"family": "347",
+"title": "A nondegenerate counterexample to the Morse-number Arnold bound",
+"titlePlain": "A nondegenerate counterexample to the Morse-number Arnold bound",
+"date": "2026-09-23"
+},
+{
+"family": "347",
+"title": "Three fixed points on the symplectic quadric threefold",
+"titlePlain": "Three fixed points on the symplectic quadric threefold",
+"date": "2026-09-23"
+},
+{
+"family": "348",
+"title": "Zero-Plane Rigidity for Einstein Four-Manifolds",
+"titlePlain": "Zero-Plane Rigidity for Einstein Four-Manifolds",
+"date": "2026-10-04"
+},
+{
+"family": "348",
+"title": "An L² Einstein Gap for Nonnegatively Curved Four-Manifolds",
+"titlePlain": "An L² Einstein Gap for Nonnegatively Curved Four-Manifolds",
+"date": "2026-10-05"
+},
+{
+"family": "348",
+"title": "Positively curved Einstein four-manifolds",
+"titlePlain": "Positively curved Einstein four-manifolds",
+"date": "2026-09-23"
+},
+{
+"family": "349",
+"title": "The Solomon–Yau least-volume theorem",
+"titlePlain": "The Solomon–Yau least-volume theorem",
+"date": "2026-09-23"
+},
+{
+"family": "350",
+"title": "Sharp nodal length on smooth surfaces",
+"titlePlain": "Sharp nodal length on smooth surfaces",
+"date": "2026-09-23"
+},
+{
+"family": "350",
+"title": "Smooth counterexamples to Yau's nodal upper bound in dimensions three and four",
+"titlePlain": "Smooth counterexamples to Yau's nodal upper bound in dimensions three and four",
+"date": "2026-09-23"
+},
+{
+"family": "350",
+"title": "Power-law violations of Yau's nodal upper bound",
+"titlePlain": "Power-law violations of Yau's nodal upper bound",
+"date": "2026-09-23"
+},
+{
+"family": "351",
+"title": "A closed Ricci flow with bounded scalar curvature and finite-time curvature blowup",
+"titlePlain": "A closed Ricci flow with bounded scalar curvature and finite-time curvature blowup",
+"date": "2026-09-24"
+},
+{
+"family": "351",
+"title": "Bounded scalar curvature and smooth extension of four-dimensional Ricci flow",
+"titlePlain": "Bounded scalar curvature and smooth extension of four-dimensional Ricci flow",
+"date": "2026-09-24"
+},
+{
+"family": "351",
+"title": "Path selection and an elliptic inequality on degenerating Ricci-flat trees",
+"titlePlain": "Path selection and an elliptic inequality on degenerating Ricci-flat trees",
+"date": "2026-09-24"
+},
+{
+"family": "352",
+"title": "A finite-time singularity of Calabi flow on projective space",
+"titlePlain": "A finite-time singularity of Calabi flow on projective space",
+"date": "2026-09-24"
+},
+{
+"family": "353",
+"title": "A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten",
+"titlePlain": "A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten",
+"date": "2026-10-05"
+},
+{
+"family": "353",
+"title": "The affine Bernstein theorem in dimensions three through nine",
+"titlePlain": "The affine Bernstein theorem in dimensions three through nine",
+"date": "2026-09-24"
+},
+{
+"family": "354",
+"title": "The Isoperimetric Conjecture for the Cubic Flat Three-Torus",
+"titlePlain": "The Isoperimetric Conjecture for the Cubic Flat Three-Torus",
+"date": "2026-09-24"
+},
+{
+"family": "355",
+"title": "Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow",
+"titlePlain": "Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow",
+"date": "2026-09-24"
+},
+{
+"family": "356",
+"title": "Gigli’s distributional curvature characterization of Alexandrov spaces",
+"titlePlain": "Gigli’s distributional curvature characterization of Alexandrov spaces",
+"date": "2026-09-24"
+},
+{
+"family": "356",
+"title": "Weak Hessian bounds along every geodesic in RCD spaces",
+"titlePlain": "Weak Hessian bounds along every geodesic in RCD spaces",
+"date": "2026-09-24"
+},
+{
+"family": "357",
+"title": "Bi-Lipschitz Coordinates at Regular Points of Noncollapsed RCD Spaces",
+"titlePlain": "Bi-Lipschitz Coordinates at Regular Points of Noncollapsed RCD Spaces",
+"date": "2026-09-25"
+},
+{
+"family": "358",
+"title": "A Three-Manifold Without Conjugate Points and Without a Nonpositively Curved Metric",
+"titlePlain": "A Three-Manifold Without Conjugate Points and Without a Nonpositively Curved Metric",
+"date": "2026-09-24"
+},
+{
+"family": "359",
+"title": "A negatively pinched Kähler threefold without bounded holomorphic coordinates",
+"titlePlain": "A negatively pinched Kähler threefold without bounded holomorphic coordinates",
+"date": "2026-09-25"
+},
+{
+"family": "359",
+"title": "One-sided negative sectional curvature and the holomorphic Liouville property",
+"titlePlain": "One-sided negative sectional curvature and the holomorphic Liouville property",
+"date": "2026-09-25"
+},
+{
+"family": "360",
+"title": "Global Support and Convex Injectivity Domains under Weak MTW",
+"titlePlain": "Global Support and Convex Injectivity Domains under Weak MTW",
+"date": "2026-09-25"
+},
+{
+"family": "360",
+"title": "Uniform Bi-Holder Transport from Weak MTW",
+"titlePlain": "Uniform Bi-Holder Transport from Weak MTW",
+"date": "2026-09-25"
+},
+{
+"family": "361",
+"title": "A counterexample to integer-degree harmonic dimension comparison",
+"titlePlain": "A counterexample to integer-degree harmonic dimension comparison",
+"date": "2026-09-25"
+},
+{
+"family": "361",
+"title": "A Three-Dimensional Counterexample to Integer-Degree Harmonic Dimension Comparison",
+"titlePlain": "A Three-Dimensional Counterexample to Integer-Degree Harmonic Dimension Comparison",
+"date": "2026-09-26"
+},
+{
+"family": "362",
+"title": "Global classical solutions of the three-dimensional relativistic Vlasov–Maxwell system",
+"titlePlain": "Global classical solutions of the three-dimensional relativistic Vlasov–Maxwell system",
+"date": "2026-09-23"
+},
+{
+"family": "363",
+"title": "Nonuniqueness with local conservation for the hard-sphere Boltzmann equation",
+"titlePlain": "Nonuniqueness with local conservation for the hard-sphere Boltzmann equation",
+"date": "2026-10-05"
+},
+{
+"family": "363",
+"title": "Nonuniqueness for the periodic hard-sphere Boltzmann equation",
+"titlePlain": "Nonuniqueness for the periodic hard-sphere Boltzmann equation",
+"date": "2026-09-23"
+},
+{
+"family": "364",
+"title": "The Boltzmann–Grad limit for stable radial potentials on regular kinetic intervals",
+"titlePlain": "The Boltzmann–Grad limit for stable radial potentials on regular kinetic intervals",
+"date": "2026-09-23"
+},
+{
+"family": "364",
+"title": "Hard-sphere fluctuations on the regular Boltzmann lifespan",
+"titlePlain": "Hard-sphere fluctuations on the regular Boltzmann lifespan",
+"date": "2026-09-23"
+},
+{
+"family": "365",
+"title": "Determination of a metric and a unitary connection from one boundary patch",
+"titlePlain": "Determination of a metric and a unitary connection from one boundary patch",
+"date": "2026-10-05"
+},
+{
+"family": "365",
+"title": "Smooth anisotropic uniqueness in the Calderón problem from one boundary patch",
+"titlePlain": "Smooth anisotropic uniqueness in the Calderón problem from one boundary patch",
+"date": "2026-09-24"
+},
+{
+"family": "365",
+"title": "Nonuniqueness for bounded measurable scalar conductivities in three dimensions",
+"titlePlain": "Nonuniqueness for bounded measurable scalar conductivities in three dimensions",
+"date": "2026-09-23"
+},
+{
+"family": "366",
+"title": "Interior regularity of planar Mumford–Shah minimizers",
+"titlePlain": "Interior regularity of planar Mumford–Shah minimizers",
+"date": "2026-09-24"
+},
+{
+"family": "367",
+"title": "The critical dimension for one-phase Bernoulli minimizers",
+"titlePlain": "The critical dimension for one-phase Bernoulli minimizers",
+"date": "2026-09-24"
+},
+{
+"family": "368",
+"title": "Strong diffeomorphic approximation in three dimensions for 1≤p≤2",
+"titlePlain": "Strong diffeomorphic approximation in three dimensions for 1≤p≤2",
+"date": "2026-09-24"
+},
+{
+"family": "368",
+"title": "Strong diffeomorphic approximation in three dimensions for p>2",
+"titlePlain": "Strong diffeomorphic approximation in three dimensions for p>2",
+"date": "2026-09-24"
+},
+{
+"family": "369",
+"title": "Strict hot spots and absence of interior critical points on smooth simply connected planar domains",
+"titlePlain": "Strict hot spots and absence of interior critical points on smooth simply connected planar domains",
+"date": "2026-09-24"
+},
+{
+"family": "370",
+"title": "The Subcritical Hénon–Lane–Emden Conjecture",
+"titlePlain": "The Subcritical Hénon–Lane–Emden Conjecture",
+"date": "2026-09-24"
+},
+{
+"family": "371",
+"title": "Stable self-similar blowup for a supercritical defocusing Schrödinger equation on the torus",
+"titlePlain": "Stable self-similar blowup for a supercritical defocusing Schrödinger equation on the torus",
+"date": "2026-09-24"
+},
+{
+"family": "372",
+"title": "Global Uniqueness for the Smooth Isotropic Elasticity Inverse Problem",
+"titlePlain": "Global Uniqueness for the Smooth Isotropic Elasticity Inverse Problem",
+"date": "2026-09-24"
+},
+{
+"family": "373",
+"title": "A counterexample to the Monge ansatz for the three-marginal Coulomb cost",
+"titlePlain": "A counterexample to the Monge ansatz for the three-marginal Coulomb cost",
+"date": "2026-09-25"
+},
+{
+"family": "374",
+"title": "Sharp One-Third Stability of Brenier Maps",
+"titlePlain": "Sharp One-Third Stability of Brenier Maps",
+"date": "2026-09-25"
+},
+{
+"family": "375",
+"title": "A positive resolution of De Giorgi's conjecture in dimension eight",
+"titlePlain": "A positive resolution of De Giorgi's conjecture in dimension eight",
+"date": "2026-09-26"
+},
+{
+"family": "376",
+"title": "Finite Instructions and Solenoidal Shear Flows",
+"titlePlain": "Finite Instructions and Solenoidal Shear Flows",
+"date": "2026-09-27"
+},
+{
+"family": "376",
+"title": "A Fixed Particle Test for Computation in a Forced Viscous Flow",
+"titlePlain": "A Fixed Particle Test for Computation in a Forced Viscous Flow",
+"date": "2026-09-27"
+},
+{
+"family": "376",
+"title": "Universal Computation with Eventually Stationary Navier–Stokes Forcing",
+"titlePlain": "Universal Computation with Eventually Stationary Navier–Stokes Forcing",
+"date": "2026-09-27"
+},
+{
+"family": "376",
+"title": "Geometric Programs for Solenoidal Forcing",
+"titlePlain": "Geometric Programs for Solenoidal Forcing",
+"date": "2026-09-27"
+},
+{
+"family": "376",
+"title": "Prefix Instructions and Incompressible Flows",
+"titlePlain": "Prefix Instructions and Incompressible Flows",
+"date": "2026-09-27"
+},
+{
+"family": "376",
+"title": "Computation under Rapidly Vanishing Navier–Stokes Forcing",
+"titlePlain": "Computation under Rapidly Vanishing Navier–Stokes Forcing",
+"date": "2026-09-27"
+},
+{
+"family": "376",
+"title": "Velocity-Field Detection of Computation in Forced Navier–Stokes Flows",
+"titlePlain": "Velocity-Field Detection of Computation in Forced Navier–Stokes Flows",
+"date": "2026-09-27"
+},
+{
+"family": "376",
+"title": "Scalar Potentials and Slow Clocks for Forced Fluid Computation",
+"titlePlain": "Scalar Potentials and Slow Clocks for Forced Fluid Computation",
+"date": "2026-09-27"
+},
+{
+"family": "376",
+"title": "Incompressible Box Transport and Finite Computation",
+"titlePlain": "Incompressible Box Transport and Finite Computation",
+"date": "2026-10-06"
+},
+{
+"family": "377",
+"title": "Uniform Interior $C^{1,\\alpha}$ Estimates for Infinity-Harmonic Functions",
+"titlePlain": "Uniform Interior C^1, Estimates for Infinity-Harmonic Functions",
+"date": "2026-10-04"
+}
+]
